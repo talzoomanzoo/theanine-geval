@@ -1,0 +1,10 @@
+{
+    "id": 401,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Speaker B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: I didn't watch my grandkids today so I checked out a new book to read.\n\n[MEMORY]\n- [Speaker A has 8 grandchildren and enjoys reading books and watching Netflix.] - (SameTopic) - [Speaker A enjoys watching movies with their grandchildren.] \n- [Speaker A has 8 grandchildren and enjoys reading books and watching Netflix.] - (SameTopic) - [Speaker A enjoys watching Jeopardy with their grandchildren and cooking for them, with the busiest time being the weekend.]",
+    "utter_id": "e37-s5-t1",
+    "current_dialogue": "Speaker A: I didn't watch my grandkids today so I checked out a new book to read.",
+    "memory_text": "- [Speaker A has 8 grandchildren and enjoys reading books and watching Netflix.] - (SameTopic) - [Speaker A enjoys watching movies with their grandchildren.] \n- [Speaker A has 8 grandchildren and enjoys reading books and watching Netflix.] - (SameTopic) - [Speaker A enjoys watching Jeopardy with their grandchildren and cooking for them, with the busiest time being the weekend.]",
+    "speaker": "Speaker B",
+    "raw_prediction": "What book did you pick up this time?",
+    "prediction": "Brief explanation: There is no necessary information in the MEMORY that is needed for the language model to generate a response to the DIALOGUE CONTEXT.\nJudgement: N/A"
+}

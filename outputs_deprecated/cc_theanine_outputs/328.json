@@ -1,0 +1,10 @@
+{
+    "id": 328,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Neighbors A, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nNeighbors A: Hey neighbor, how's it going?\n\n[MEMORY]\nNeighbor B's interest in chiropractic care, after hearing about Neighbor A's positive experience, has led to Neighbor A looking forward to playing with Neighbor B again once feeling better. Neighbor A also appreciates the support and friendship of Neighbor B. Additionally, Neighbor A's enjoyment of the different culture and exploration of the city is a result of having moved to London in the past and learning how to manage stress.",
+    "utter_id": "e27-s5-t1",
+    "current_dialogue": "Neighbors A: Hey neighbor, how's it going?",
+    "memory_text": "Neighbor B's interest in chiropractic care, after hearing about Neighbor A's positive experience, has led to Neighbor A looking forward to playing with Neighbor B again once feeling better. Neighbor A also appreciates the support and friendship of Neighbor B. Additionally, Neighbor A's enjoyment of the different culture and exploration of the city is a result of having moved to London in the past and learning how to manage stress.",
+    "speaker": "Neighbors A",
+    "raw_prediction": "Hey neighbor, feeling any better after your chiropractic appointment?",
+    "prediction": "Brief explanation: The dialogue context simply shows Neighbor A greeting. There is not enough context to need to utilize the MEMORY.\nJudgement: N/A"
+}

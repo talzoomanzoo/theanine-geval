@@ -1,0 +1,25 @@
+Your task is to choose the better response based on the below criterion.
+You will be given a list of past memories, a current conversation between two individuals, and two options of next responses.
+
+CRITERION:
+Consistency - The response should not contain information that contradicts past memory and should be appropriate for the current time step.
+
+The output format should be as follows:
+Explanation: (a brief explanation)
+Choice: (answer with "1" or "2")
+
+Now choose the response that has better Consistency given the past memories and current conversation.
+
+PAST MEMORIES:
+{past_memories}
+
+CURRENT CONVERSATION:
+{current_dialogue} 
+
+RESPONSE 1
+{speaker1}: {response1}
+RESPONSE 2
+{speaker2}: {response2}
+
+YOUR OUTPUT:
+Explanation:

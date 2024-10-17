@@ -1,0 +1,26 @@
+{
+    "ret_summary_count_results.json": {
+        "Theanine wins average": 0.154,
+        "Tie average": 0.337,
+        "Baseline wins average": 0.509,
+        "Sum of averages": 1.0
+    },
+    "ret_update_count_results.json": {
+        "Theanine wins average": 0.15,
+        "Tie average": 0.328,
+        "Baseline wins average": 0.521,
+        "Sum of averages": 0.999
+    },
+    "memochat_count_results.json": {
+        "Theanine wins average": 0.336,
+        "Tie average": 0.283,
+        "Baseline wins average": 0.382,
+        "Sum of averages": 1.001
+    },
+    "comedy_count_results.json": {
+        "Theanine wins average": 0.431,
+        "Tie average": 0.087,
+        "Baseline wins average": 0.482,
+        "Sum of averages": 1.0
+    }
+}

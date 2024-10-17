@@ -1,0 +1,30 @@
+[Task Description]
+You will be given DIALOGUE CONTEXT and 5 MEMORY.
+You job is to give me a ranking regarding the helpfulness of each MEMORY.
+The helpfulness is defined as "the extent a MEMORY benefits a language model (representing {speaker}) in generating a proper next response based on DIALOGUE CONTEXT". When multiple MEMORYs have similar helpfulness, takes the naturalness of sentences in them into account to improve your judgement.
+
+Provide a brief explanation for your judgement.
+
+[Format Regulation]
+Generate your output below OUTPUT using the following format:
+Brief explanation: your explanation
+ranking: {number}>…>{number}
+
+[Task]
+DIALOGUE CONTEXT:
+{RG시 모델한테 주는 현재대화context}
+
+MEMORY 1:
+{해당context에 대한 RG를 생성할 때 사용하는/검색해온 메모리들}
+
+MEMORY 2:
+{해당context에 대한 RG를 생성할 때 사용하는/검색해온 메모리들}
+
+MEMORY 3:
+{해당context에 대한 RG를 생성할 때 사용하는/검색해온 메모리들}
+
+MEMORY 4:
+{해당context에 대한 RG를 생성할 때 사용하는/검색해온 메모리들}
+
+MEMORY 5:
+{해당context에 대한 RG를 생성할 때 사용하는/검색해온 메모리들}

@@ -1,0 +1,10 @@
+{
+    "id": 413,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Speaker A, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: So I decided against Marmalade for the kitten's name. We're going with Pumpkin!\nSpeaker B: Wow I like it. Why did you decide to change its name? \n\nMEMORY:\nSpeaker B is excited for the trip and looking forward to trying the best iced tea.\nSpeaker A has a Subaru and a cat named Ginger, considering naming a new kitten Pumpkin.",
+    "utter_id": "e38-s5-t2",
+    "current_dialogue": "Speaker A: So I decided against Marmalade for the kitten's name. We're going with Pumpkin!\nSpeaker B: Wow I like it. Why did you decide to change its name? ",
+    "memory_text": "Speaker B is excited for the trip and looking forward to trying the best iced tea.\nSpeaker A has a Subaru and a cat named Ginger, considering naming a new kitten Pumpkin.",
+    "speaker": "Speaker A",
+    "raw_prediction": "I thought Pumpkin was a better fit for the new kitten's personality.",
+    "prediction": "OUTPUT:\n\nBrief explanation: The MEMORY contains relevant information about Speaker A considering the name \"Pumpkin\" for the new kitten, which directly relates to the current topic of conversation in the DIALOGUE CONTEXT about the kitten's name. This past information is useful for understanding the context of the name change discussion.\n\nJudgement: \"Yes\""
+}

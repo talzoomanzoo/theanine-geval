@@ -1,0 +1,10 @@
+{
+    "id": 44,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Speaker B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: How did you decide to become a therapist?\n\n[MEMORY]\nSpeaker A is involved in horse breeding and taking care of horses, which has caused Speaker B to work in their own therapy practice for about six years. \nSpeaker B, a therapist and football fan supporting the Chiefs, mentions the ups and downs of the profession, and wants to live in the city and have a horse in the future.",
+    "utter_id": "e4-s5-t1",
+    "current_dialogue": "Speaker A: How did you decide to become a therapist?",
+    "memory_text": "Speaker A is involved in horse breeding and taking care of horses, which has caused Speaker B to work in their own therapy practice for about six years. \nSpeaker B, a therapist and football fan supporting the Chiefs, mentions the ups and downs of the profession, and wants to live in the city and have a horse in the future.",
+    "speaker": "Speaker B",
+    "raw_prediction": "I've always been interested in helping others and psychology, so becoming a therapist felt like a natural fit for me.",
+    "prediction": "Brief explanation: The dialogue context asks how Speaker B decided to become a therapist, which isn't directly answered or addressed in the memory provided.\nJudgement: No"
+}

@@ -1,0 +1,22 @@
+Your task is to choose a more helpful MEMORY based on the below criterion.
+
+CRITERION:
+Helpfulness - The MEMORY should benefit {speaker} in making a next response based on DIALOGUE CONTEXT. A more helpful MEMORY should contain more, richer speaker information.
+
+The output format should be as follows:
+Explanation: (a brief explanation)
+Choice: (answer with "1", "2", or "tie")
+
+Now choose the MEMORY that has better Helpfulness.
+
+DIALOGUE CONTEXT:
+{current_dialogue} 
+
+MEMORY 1
+{memory1}
+
+MEMORY 2
+{memory2}
+
+YOUR OUTPUT:
+Explanation:

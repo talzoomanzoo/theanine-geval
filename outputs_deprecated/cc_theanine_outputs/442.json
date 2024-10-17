@@ -1,0 +1,10 @@
+{
+    "id": 442,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Neighbors B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nNeighbors A: It's great to have friends who can help each other out, isn't it?\n\n[MEMORY]\nNeighbors A thanked Neighbors B for the suggestion of the necklace and stumbled upon Neighbors B's shop. Neighbors B offered to help Neighbors A with the apology process. Neighbors A has a picture of the dress on their phone and will show it to Neighbors B.",
+    "utter_id": "e37-s5-t1",
+    "current_dialogue": "Neighbors A: It's great to have friends who can help each other out, isn't it?",
+    "memory_text": "Neighbors A thanked Neighbors B for the suggestion of the necklace and stumbled upon Neighbors B's shop. Neighbors B offered to help Neighbors A with the apology process. Neighbors A has a picture of the dress on their phone and will show it to Neighbors B.",
+    "speaker": "Neighbors B",
+    "raw_prediction": "Absolutely, I'm glad we can support each other. Let me see the picture of the dress you're thinking of wearing for the apology dinner.",
+    "prediction": "Brief explanation: The dialogue context does not provide enough information to require information from the memory. It is a general statement about the value of friendship and mutual help, not referring to any specific past events or needing the extra information the memory provides.\nJudgement: \"N/A\""
+}

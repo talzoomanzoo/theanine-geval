@@ -1,0 +1,10 @@
+{
+    "id": 196,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Speaker B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: What position did you play, when you played soccer in college?\n\n[MEMORY]\nSpeaker A used to work part-time at a supermarket while majoring in Humanities in college. Now, Speaker A plays soccer as a striker and has a match next week. Additionally, Speaker A is a member of a soccer team and enjoys playing in tournaments. On top of that, Speaker A has been scoring well in soccer recently.",
+    "utter_id": "e18-s5-t1",
+    "current_dialogue": "Speaker A: What position did you play, when you played soccer in college?",
+    "memory_text": "Speaker A used to work part-time at a supermarket while majoring in Humanities in college. Now, Speaker A plays soccer as a striker and has a match next week. Additionally, Speaker A is a member of a soccer team and enjoys playing in tournaments. On top of that, Speaker A has been scoring well in soccer recently.",
+    "speaker": "Speaker B",
+    "raw_prediction": "I used to play as a defender. What about you?",
+    "prediction": "Brief explanation: The information in MEMORY indicates the position Speaker A currently plays in their soccer game. Since the DIALOGUE CONTEXT asks for information about 'when' they played soccer in college, there is possibility their position might have changed in the meantime. Therefore, even though it's related to soccer, it might not provide the exact information needed for Speaker B's response.\nJudgement: \"No\""
+}

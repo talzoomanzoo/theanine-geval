@@ -1,0 +1,25 @@
+Your task is to choose the better response based on the below criterion.
+You will be given a list of past memories, a current conversation between two individuals, and two options of next responses.
+
+CRITERION:
+Memorability - The response should properly recall past memories when needed. Higher reflection of past memories indicates higher Memorability.
+
+The output format should be as follows:
+Explanation: (a brief explanation)
+Choice: (answer with "1", "2", or "tie")
+
+Now choose the response that has better Memorability given the past memories and current conversation.
+
+PAST MEMORIES:
+{past_memories}
+
+CURRENT CONVERSATION:
+{current_dialogue} 
+
+RESPONSE 1
+{speaker1}: {response1}
+RESPONSE 2
+{speaker2}: {response2}
+
+YOUR OUTPUT:
+Explanation:

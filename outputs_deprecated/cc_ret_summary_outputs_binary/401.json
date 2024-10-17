@@ -1,0 +1,10 @@
+{
+    "id": 401,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Unknown, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nCo-workers A: Hey, how's your workload today?\n\nMEMORY:\n1. Co-worker A has been feeling off lately.\n2. Co-worker B offers help and support to Co-worker A.\n3. Co-worker B is supportive and glad that Co-worker A is okay.\n4. Co-worker A now has a good job and is doing well, despite their difficult upbringing.\n5. Co-worker A values their health to continue working at their best.\n6. Co-worker A feels motivated about the future and is excited to work with Co-worker B.",
+    "utter_id": "e4-s5-t1",
+    "current_dialogue": "Co-workers A: Hey, how's your workload today?",
+    "memory_text": "1. Co-worker A has been feeling off lately.\n2. Co-worker B offers help and support to Co-worker A.\n3. Co-worker B is supportive and glad that Co-worker A is okay.\n4. Co-worker A now has a good job and is doing well, despite their difficult upbringing.\n5. Co-worker A values their health to continue working at their best.\n6. Co-worker A feels motivated about the future and is excited to work with Co-worker B.",
+    "speaker": "Unknown",
+    "raw_prediction": "Hey, it's actually been manageable today. How about you?",
+    "prediction": "OUTPUT:\nBrief explanation: The MEMORY provides context regarding Co-worker A's current well-being and their relationship with Co-worker B, indicating previous support and encouragement. This past information is likely helpful for Unknown to generate a relevant response to Co-worker A's inquiry about workload, potentially addressing supportive dynamics or acknowledging their recent positive feelings.\nJudgement: \"Yes\""
+}

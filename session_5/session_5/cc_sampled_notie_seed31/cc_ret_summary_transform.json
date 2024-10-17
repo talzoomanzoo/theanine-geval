@@ -1,0 +1,802 @@
+[
+    {
+        "utter_id": "e1-s5-t2",
+        "current_dialogue": "Mentee: Mentor, I'm feeling really lonely in this new city. I don't know anyone yet and I miss my old friends.\nMentor: I understand that starting over can be tough, Mentee. But remember, this is also an opportunity for you to meet new people and make new connections.",
+        "memory_text": "1. Mentor reassures Mentee that many students feel the same way and that everyone works at their own pace.\n2. The Mentee has been offered a job and has decided to take the job in the city.\n3. The Mentor is supportive and praises the Mentee for their mature decision-making process.\n4. The Mentee expresses gratitude for the Mentor's guidance and support throughout the decision-making process.\n5. Mentee agreed to go back to the store to make things right and expressed gratitude for the mentor's advice.\n6. Mentee is feeling overwhelmed with the college application process.",
+        "speaker": "Mentee",
+        "raw_prediction": "Thank you for reminding me of that, Mentor. I'll try to keep an open mind and see this as a chance to grow and make new friends. Your support means a lot to me.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e2-s5-t1",
+        "current_dialogue": "Neighbors A: Haha, that was a good one! Aren't you glad I pushed you into the cold water?",
+        "memory_text": "1. Neighbors B suggests having extra water on hand for the next time Neighbors A mows the lawn, showing consideration for each other.\n2. Neighbor B is comforting and supportive towards Neighbor A.\n3. Neighbor A and Neighbor B have known each other for a while, as they reminisce about past events.\n4. Neighbors A and B have had conversations about the temperature in the house and how it feels hotter outside.\n5. Neighbors A mentioned mowing the lawn with an old push mower, indicating they are responsible for the yard work.\n6. Neighbors A and B have not seen each other in a while and are catching up.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "I'll never forget that day! It was so much fun, even though I was freezing after. Good times.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e2-s5-t5",
+        "current_dialogue": "Neighbors A: Haha, that was a good one! Aren't you glad I pushed you into the cold water?\nNeighbors B: No, I'm not glad. That was completely uncalled for.\nNeighbors A: Oh come on, it was just a joke. Lighten up a bit.\nNeighbors B: It wasn't funny. You shouldn't push people like that, especially into cold water.\nNeighbors A: Fine, I'm sorry. I didn't mean to upset you. Let's just forget about it.",
+        "memory_text": "1. Neighbor B is comforting and supportive towards Neighbor A.\n2. Neighbor A and Neighbor B have known each other for a while, as they reminisce about past events.\n3. Neighbors B suggests having extra water on hand for the next time Neighbors A mows the lawn, showing consideration for each other.\n4. Neighbors A and B have not seen each other in a while and are catching up.\n5. Neighbors A and B have had conversations about the temperature in the house and how it feels hotter outside.\n6. Neighbors A and B are on friendly terms and enjoy spending time together.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "I appreciate the apology, thank you. Let's just move on from it and enjoy the rest of the day together.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e2-s5-t10",
+        "current_dialogue": "Neighbors A: Haha, that was a good one! Aren't you glad I pushed you into the cold water?\nNeighbors B: No, I'm not glad. That was completely uncalled for.\nNeighbors A: Oh come on, it was just a joke. Lighten up a bit.\nNeighbors B: It wasn't funny. You shouldn't push people like that, especially into cold water.\nNeighbors A: Fine, I'm sorry. I didn't mean to upset you. Let's just forget about it.\nNeighbors B: Okay, but just don't do it again.\nNeighbors A: I won't. So, do you remember the time when I mowed the lawn with that old push mower?\nNeighbors B: Yeah, I remember that. That was pretty tough work.\nNeighbors A: It was. But it was also a good workout.\nNeighbors B: I prefer to work out indoors where there's air conditioning.",
+        "memory_text": "1. Neighbors B agrees that mowing the lawn is a lot of work but acknowledges the exercise it provides.\n2. Both Neighbors A and B enjoy spending time outside, even if it involves doing chores like mowing the lawn.\n3. Neighbors A mentioned mowing the lawn with an old push mower, indicating they are responsible for the yard work.\n4. Neighbors B suggests having extra water on hand for the next time Neighbors A mows the lawn, showing consideration for each other.\n5. Neighbors A and B plan to work on mowing the lawn together next time to make it easier and possibly discover more things in common.\n6. Neighbors A and B have had conversations about the temperature in the house and how it feels hotter outside.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "That's understandable, but I really enjoy being outside. Plus, the fresh air and sunshine make it worth it.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e2-s5-t12",
+        "current_dialogue": "Neighbors A: Haha, that was a good one! Aren't you glad I pushed you into the cold water?\nNeighbors B: No, I'm not glad. That was completely uncalled for.\nNeighbors A: Oh come on, it was just a joke. Lighten up a bit.\nNeighbors B: It wasn't funny. You shouldn't push people like that, especially into cold water.\nNeighbors A: Fine, I'm sorry. I didn't mean to upset you. Let's just forget about it.\nNeighbors B: Okay, but just don't do it again.\nNeighbors A: I won't. So, do you remember the time when I mowed the lawn with that old push mower?\nNeighbors B: Yeah, I remember that. That was pretty tough work.\nNeighbors A: It was. But it was also a good workout.\nNeighbors B: I prefer to work out indoors where there's air conditioning.\nNeighbors A: Ha, I remember when I took off my jacket and put my feet up in your armchair. It was so warm that day.\nNeighbors B: Yeah, that was a hot day. I'm glad you felt comfortable in my home though.",
+        "memory_text": "1. Neighbors A and B have had conversations about the temperature in the house and how it feels hotter outside.\n2. Both Neighbors A and B enjoy spending time outside, even if it involves doing chores like mowing the lawn.\n3. Neighbor A and Neighbor B have known each other for a while, as they reminisce about past events.\n4. Neighbors B agrees that mowing the lawn is a lot of work but acknowledges the exercise it provides.\n5. Neighbors B suggests having extra water on hand for the next time Neighbors A mows the lawn, showing consideration for each other.\n6. Neighbors A mentioned mowing the lawn with an old push mower, indicating they are responsible for the yard work.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "Thanks for letting me relax in your armchair that day. It was a nice break from the heat outside.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e2-s5-t14",
+        "current_dialogue": "Neighbors A: Haha, that was a good one! Aren't you glad I pushed you into the cold water?\nNeighbors B: No, I'm not glad. That was completely uncalled for.\nNeighbors A: Oh come on, it was just a joke. Lighten up a bit.\nNeighbors B: It wasn't funny. You shouldn't push people like that, especially into cold water.\nNeighbors A: Fine, I'm sorry. I didn't mean to upset you. Let's just forget about it.\nNeighbors B: Okay, but just don't do it again.\nNeighbors A: I won't. So, do you remember the time when I mowed the lawn with that old push mower?\nNeighbors B: Yeah, I remember that. That was pretty tough work.\nNeighbors A: It was. But it was also a good workout.\nNeighbors B: I prefer to work out indoors where there's air conditioning.\nNeighbors A: Ha, I remember when I took off my jacket and put my feet up in your armchair. It was so warm that day.\nNeighbors B: Yeah, that was a hot day. I'm glad you felt comfortable in my home though.\nNeighbors A: You know, I really enjoy spending time with you. I want to get to know you even better.\nNeighbors B: I feel the same way. We should plan something fun to do together.",
+        "memory_text": "1. Both Neighbors A and B enjoy spending time outside, even if it involves doing chores like mowing the lawn.\n2. Neighbors A and B are on friendly terms and enjoy spending time together.\n3. Neighbor A enjoys spending time in Neighbor B's cozy home and wants to hang out more often.\n4. Neighbor A and Neighbor B have known each other for a while, as they reminisce about past events.\n5. Neighbors A and B plan to work on mowing the lawn together next time to make it easier and possibly discover more things in common.\n6. Neighbors A and B have had conversations about the temperature in the house and how it feels hotter outside.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "That sounds like a great idea! Maybe next time we can work on mowing the lawn together and then relax in your cozy home.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e3-s5-t3",
+        "current_dialogue": "Co-workers A: I have a plan to never let the bride get married to anyone else. I'm going to steal her and hide her away.\nCo-workers B: What?! That's not right, Co-workers A. You can't just take someone away like that.\nCo-workers A: But I love her and I don't want her to be with anyone else. It's the only way.",
+        "memory_text": "1. Co-worker A borrowed a pencil from Co-worker B without asking and felt guilty about it.\n2. Co-worker B reassured Co-worker A that it was not a big deal and even suggested making it up by buying coffee next time.\n3. Co-worker B admires Co-worker A's resilience and positivity.\n4. Co-worker B is supportive and willing to help in any way.\n5. Co-worker B appreciates Co-worker A's positivity and friendship.\n6. Co-worker A is alive but will need time to adjust to their new way of life.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "I understand that you have strong feelings, but kidnapping someone is not the answer. Let's try to find a different way to deal with this situation. I'm here to support you in figuring it out.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e3-s5-t5",
+        "current_dialogue": "Co-workers A: I have a plan to never let the bride get married to anyone else. I'm going to steal her and hide her away.\nCo-workers B: What?! That's not right, Co-workers A. You can't just take someone away like that.\nCo-workers A: But I love her and I don't want her to be with anyone else. It's the only way.\nCo-workers B: That's not love, Co-workers A. Love is about respecting someone's choices and feelings. You can't just kidnap someone and force them to be with you.\nCo-workers A: I know, but I can't help how I feel. It's like when I borrowed your pencil without asking. I felt guilty, but I couldn't resist using it.",
+        "memory_text": "1. Co-worker A borrowed a pencil from Co-worker B without asking and felt guilty about it.\n2. Co-worker B reassured Co-worker A that it was not a big deal and even suggested making it up by buying coffee next time.\n3. Co-worker B admires Co-worker A's resilience and positivity.\n4. Co-worker B appreciates Co-worker A's positivity and friendship.\n5. Co-worker B is supportive and willing to help in any way.\n6. Co-worker B commended Co-worker A for their bravery and willingness to help.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "It's okay, Co-worker A. I understand where you're coming from. Just remember, it's never too late to make things right and show your true intentions. Let's focus on finding a healthy way to express your feelings.",
+        "previous_summary": "Co-worker A borrowed a pencil from Co-worker B without asking and felt guilty about it.\nCo-worker B reassured Co-worker A that it was not a big deal and even suggested making it up by buying coffee next time.\nCo-worker A is described as positive and able to stay optimistic even in challenging situations, like the accident where they lost their hands and feet.\nCo-worker B appreciates Co-worker A's positivity and friendship."
+    },
+    {
+        "utter_id": "e4-s5-t3",
+        "current_dialogue": "Co-workers A: Hey, how's your workload today?\nCo-workers B: It's pretty heavy, but I'm managing.\nCo-workers A: Do you need any help? I don't want you to get overwhelmed.",
+        "memory_text": "1. Co-worker B offers help and support to Co-worker A.\n2. Co-worker B is supportive and encourages Co-worker A to prioritize their health.\n3. Co-worker B is supportive and glad that Co-worker A is okay.\n4. Co-worker A values their health to continue working at their best.\n5. Both co-workers are looking forward to starting their partnership and are open to seeking extra help if needed.\n6. Co-worker A is considering seeing a doctor to ensure everything is okay.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "I appreciate your offer. I think I'm good for now, but thank you for checking in. Remember to prioritize your health too, okay?",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e4-s5-t5",
+        "current_dialogue": "Co-workers A: Hey, how's your workload today?\nCo-workers B: It's pretty heavy, but I'm managing.\nCo-workers A: Do you need any help? I don't want you to get overwhelmed.\nCo-workers B: That's really nice of you, but I don't want to burden you with my work.\nCo-workers A: It's not a burden if it's something I can do to support you. Plus, helping you out makes me feel good too.",
+        "memory_text": "1. Co-worker B offers help and support to Co-worker A.\n2. Co-worker B is supportive and encourages Co-worker A to prioritize their health.\n3. Co-worker B is supportive and glad that Co-worker A is okay.\n4. Co-worker B is glad to have been able to help Co-worker A and feels the trade worked out well for both of them.\n5. Co-worker A feels motivated about the future and is excited to work with Co-worker B.\n6. Co-worker A values their health to continue working at their best.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "I appreciate your offer, it means a lot to me. Let's work together and support each other, that way we can both succeed.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e5-s5-t2",
+        "current_dialogue": "Classmates A: , I need to talk to you about something important.\nClassmates B: Sure, what's on your mind?",
+        "memory_text": "1. Classmates A suggests grabbing lunch together, showing an interest in spending more time with Classmates B.\n2. Classmates A and B have a good relationship, with Classmates A expressing admiration for Classmates B's intelligence and sense of humor.\n3. Both Classmates A and B enjoy talking to each other and consider themselves great study partners.\n4. Classmates A has developed a crush on Classmates B, which Classmates B finds flattering.\n5. Both Classmates A and B are open to exploring a romantic connection and are looking forward to getting to know each other better.\n6. Classmates A and B are interested in biology and studying cells.",
+        "speaker": "Classmates A",
+        "raw_prediction": "I've really enjoyed our time together studying biology and talking about cells. I was wondering if you'd like to grab lunch together sometime and maybe explore more than just being study partners.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e5-s5-t3",
+        "current_dialogue": "Classmates A: , I need to talk to you about something important.\nClassmates B: Sure, what's on your mind?\nClassmates A: I know about your affair with that other woman.",
+        "memory_text": "1. Classmates A has developed a crush on Classmates B, which Classmates B finds flattering.\n2. Classmates A and B have a good relationship, with Classmates A expressing admiration for Classmates B's intelligence and sense of humor.\n3. Classmates A suggests grabbing lunch together, showing an interest in spending more time with Classmates B.\n4. Both Classmates A and B enjoy talking to each other and consider themselves great study partners.\n5. Both Classmates A and B are open to exploring a romantic connection and are looking forward to getting to know each other better.\n6. Classmates A and B are interested in biology and studying cells.",
+        "speaker": "Classmates B",
+        "raw_prediction": "I think there might be a misunderstanding. I don't have an affair with anyone. What makes you think that?",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e5-s5-t4",
+        "current_dialogue": "Classmates A: , I need to talk to you about something important.\nClassmates B: Sure, what's on your mind?\nClassmates A: I know about your affair with that other woman.\nClassmates B: What are you talking about? I don't have an affair with anyone.",
+        "memory_text": "1. Classmates A has developed a crush on Classmates B, which Classmates B finds flattering.\n2. Classmates A and B have a good relationship, with Classmates A expressing admiration for Classmates B's intelligence and sense of humor.\n3. Both Classmates A and B enjoy talking to each other and consider themselves great study partners.\n4. Classmates A suggests grabbing lunch together, showing an interest in spending more time with Classmates B.\n5. Both Classmates A and B are open to exploring a romantic connection and are looking forward to getting to know each other better.\n6. Classmates A and B are interested in biology and studying cells.",
+        "speaker": "Classmates A",
+        "raw_prediction": "I apologize for the misunderstanding. I must have overheard something incorrectly. Let's focus on our biology project instead.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e6-s5-t13",
+        "current_dialogue": "Neighbors A: Hey, can you keep a secret?\nNeighbors B: Of course, what's up?\nNeighbors A: I can't be seen because I am hiding from my mom behind the door.\nNeighbors B: Oh, why are you hiding from her?\nNeighbors A: She wants me to go to a family dinner tonight, but I'm too tired and just want to relax at home.\nNeighbors B: Maybe you should talk to her about it and let her know how you feel.\nNeighbors A: I know, but I don't want to disappoint her.\nNeighbors B: It's important to take care of your own needs and speak up for yourself. Plus, maybe you can compromise and go to the dinner for a little while and then come back home to relax.\nNeighbors A: That's a good idea, thanks for the advice.\nNeighbors B: No problem. Speaking of compromise, remember that dinner we went to a few days ago?\nNeighbors A: Yes, it was so much fun!\nNeighbors B: I'm glad you enjoyed it. Maybe we can make it a regular thing and try out new restaurants together.\nNeighbors A: That sounds great! And it gives me something to look forward to after work.",
+        "memory_text": "1. Neighbor B offers support and suggests planning a dinner to celebrate Neighbor A's new adventures in learning.\n2. Neighbors B is interested in Neighbors A's cooking and asks about the vegetables and quinoa preparation.\n3. Neighbors A enjoys trying new things, like new recipes.\n4. Neighbors B is excited and supportive of Neighbors A's new ability.\n5. Neighbors B is open to trying new recipes and is excited to receive the chickpea curry recipe from Neighbors A.\n6. Neighbors A made a roasted vegetable and quinoa dish that Neighbors B enjoyed.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "I'm excited to try out new places with you! Maybe we can even plan a dinner at my place sometime and you can show off your cooking skills again.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e7-s5-t1",
+        "current_dialogue": "Classmates A: , I have some exciting plans for the future that I wanted to share with you.",
+        "memory_text": "1. Classmates B encourages Classmates A to work through their feelings and take steps towards a better future.\n2. Classmates A is social and enjoys meeting new people.\n3. Classmate A and Classmate B enjoy singing karaoke together and look forward to future outings.\n4. Classmate A is outgoing and enjoys meeting new people and making friends.\n5. Classmates A is looking forward to meeting up with Classmates B again after getting better sleep.\n6. Classmate B admires Classmate A's outgoing nature and wants to be more like them.",
+        "speaker": "Classmates A",
+        "raw_prediction": "That's great to hear! I'm always here to support you and help you achieve your goals. What are your plans?",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e7-s5-t8",
+        "current_dialogue": "Classmates A: , I have some exciting plans for the future that I wanted to share with you.\nClassmates B: Oh really? What are they?\nClassmates A: Well, I was thinking that we could work on a project together and maybe even become business partners.\nClassmates B: Wow, that sounds amazing! What kind of project are you thinking about?\nClassmates A: I was thinking about starting a marketing agency specialized in social media.\nClassmates B: That's a great idea! I'd love to work with you on that. We could really make a difference in the industry.\nClassmates A: Yes, exactly! And I think our skills complement each other's so well.\nClassmates B: I totally agree. You're so creative and outgoing, while I'm more analytical and detail-oriented.",
+        "memory_text": "1. Classmate A and Classmate B both enjoy socializing and going out to parties together.\n2. Classmate B admires Classmate A's outgoing nature and wants to be more like them.\n3. Classmates B encourages Classmates A to work through their feelings and take steps towards a better future.\n4. Classmate A and Classmate B enjoy singing karaoke together and look forward to future outings.\n5. Classmate A encourages Classmate B to initiate conversations and be friendly to make new friends.\n6. Classmate A is outgoing and enjoys meeting new people and making friends.",
+        "speaker": "Classmates A",
+        "raw_prediction": "And that's exactly why I think we make such a great team. I can't wait to see what we can accomplish together in the future.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e7-s5-t10",
+        "current_dialogue": "Classmates A: , I have some exciting plans for the future that I wanted to share with you.\nClassmates B: Oh really? What are they?\nClassmates A: Well, I was thinking that we could work on a project together and maybe even become business partners.\nClassmates B: Wow, that sounds amazing! What kind of project are you thinking about?\nClassmates A: I was thinking about starting a marketing agency specialized in social media.\nClassmates B: That's a great idea! I'd love to work with you on that. We could really make a difference in the industry.\nClassmates A: Yes, exactly! And I think our skills complement each other's so well.\nClassmates B: I totally agree. You're so creative and outgoing, while I'm more analytical and detail-oriented.\nClassmates A: It's like we were meant to work together, right?\nClassmates B: Absolutely! I can't wait to see what the future holds for us.",
+        "memory_text": "1. Classmate A and Classmate B both enjoy socializing and going out to parties together.\n2. Classmates B encourages Classmates A to work through their feelings and take steps towards a better future.\n3. Classmate A and Classmate B enjoy singing karaoke together and look forward to future outings.\n4. Classmate B admires Classmate A's outgoing nature and wants to be more like them.\n5. Classmate A encourages Classmate B to initiate conversations and be friendly to make new friends.\n6. Classmates A and B are open to meeting for coffee again in the future.",
+        "speaker": "Classmates A",
+        "raw_prediction": "Me too! I think we have a really bright future ahead of us. Let's make sure to keep supporting each other and pushing each other to reach our full potential.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e7-s5-t12",
+        "current_dialogue": "Classmates A: , I have some exciting plans for the future that I wanted to share with you.\nClassmates B: Oh really? What are they?\nClassmates A: Well, I was thinking that we could work on a project together and maybe even become business partners.\nClassmates B: Wow, that sounds amazing! What kind of project are you thinking about?\nClassmates A: I was thinking about starting a marketing agency specialized in social media.\nClassmates B: That's a great idea! I'd love to work with you on that. We could really make a difference in the industry.\nClassmates A: Yes, exactly! And I think our skills complement each other's so well.\nClassmates B: I totally agree. You're so creative and outgoing, while I'm more analytical and detail-oriented.\nClassmates A: It's like we were meant to work together, right?\nClassmates B: Absolutely! I can't wait to see what the future holds for us.\nClassmates A: Me too. And honestly, it's a bit of a relief to finally have a solid plan for the future.\nClassmates B: Yeah, I get that. Speaking of the future, how have you been doing with your sleeping problems?",
+        "memory_text": "1. Classmates A is looking forward to meeting up with Classmates B again after getting better sleep.\n2. Classmates B encourages Classmates A to work through their feelings and take steps towards a better future.\n3. Classmate A and Classmate B both enjoy socializing and going out to parties together.\n4. Classmate A and Classmate B enjoy singing karaoke together and look forward to future outings.\n5. Classmates A and B are open to meeting for coffee again in the future.\n6. Classmate A encourages Classmate B to initiate conversations and be friendly to make new friends.",
+        "speaker": "Classmates A",
+        "raw_prediction": "Thanks for asking! I've actually been feeling so much better lately. I've been getting more restful sleep and I can already feel a difference in my mood and energy levels. It's amazing what a good night's sleep can do for you.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e7-s5-t15",
+        "current_dialogue": "Classmates A: , I have some exciting plans for the future that I wanted to share with you.\nClassmates B: Oh really? What are they?\nClassmates A: Well, I was thinking that we could work on a project together and maybe even become business partners.\nClassmates B: Wow, that sounds amazing! What kind of project are you thinking about?\nClassmates A: I was thinking about starting a marketing agency specialized in social media.\nClassmates B: That's a great idea! I'd love to work with you on that. We could really make a difference in the industry.\nClassmates A: Yes, exactly! And I think our skills complement each other's so well.\nClassmates B: I totally agree. You're so creative and outgoing, while I'm more analytical and detail-oriented.\nClassmates A: It's like we were meant to work together, right?\nClassmates B: Absolutely! I can't wait to see what the future holds for us.\nClassmates A: Me too. And honestly, it's a bit of a relief to finally have a solid plan for the future.\nClassmates B: Yeah, I get that. Speaking of the future, how have you been doing with your sleeping problems?\nClassmates A: It's been a slow process, but I've been making progress with it. I started doing yoga and meditation before bed, and that's been helping a lot.\nClassmates B: That's great to hear. And what about your past struggles with school and friendships? Do you feel like you've moved on from that?\nClassmates A: Definitely. It's been a journey, but I've worked hard to overcome those obstacles. And now I feel like I'm finally on the right path.",
+        "memory_text": "1. Classmates B encourages Classmates A to work through their feelings and take steps towards a better future.\n2. Classmates A is looking forward to meeting up with Classmates B again after getting better sleep.\n3. Classmate A and Classmate B both enjoy socializing and going out to parties together.\n4. Classmates A considers talking to a therapist or counselor to address past issues.\n5. Classmate A encourages Classmate B to initiate conversations and be friendly to make new friends.\n6. Classmate A and Classmate B enjoy singing karaoke together and look forward to future outings.",
+        "speaker": "Classmates B",
+        "raw_prediction": "I'm really proud of you for taking those steps towards a better future. It's inspiring to see how far you've come. And I can't wait to see how your journey continues to unfold.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e9-s5-t3",
+        "current_dialogue": "Classmates A: I really enjoy being a carpenter. It's a very fulfilling job.\nClassmates B: That's great to hear! How did you get into carpentry?\nClassmates A: My dad was a carpenter, so I grew up around it. I started by helping him out when I was young, and then I began to really enjoy it myself.",
+        "memory_text": "1. Classmate B is supportive and encourages Classmate A to pursue their dream.\n2. Classmates A appreciates the support and encouragement from Classmates B.\n3. Classmates A is attending a seminar on starting a business and is excited about applying that knowledge to future plans.\n4. Classmates B is supportive and encourages Classmates A in their business venture.\n5. Classmate B offers to support and potentially collaborate with Classmate A in the future.\n6. Classmates A is willing to work hard and learn the necessary strategies for business success.",
+        "speaker": "Classmates B",
+        "raw_prediction": "That's wonderful that you found something you're passionate about and have a strong foundation in. Have you ever thought about starting your own carpentry business?",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e9-s5-t4",
+        "current_dialogue": "Classmates A: I really enjoy being a carpenter. It's a very fulfilling job.\nClassmates B: That's great to hear! How did you get into carpentry?\nClassmates A: My dad was a carpenter, so I grew up around it. I started by helping him out when I was young, and then I began to really enjoy it myself.\nClassmates B: That's awesome that you were able to learn from your dad and turn it into a career. Have you done any big projects lately?",
+        "memory_text": "1. Classmate B is supportive and encourages Classmate A to pursue their dream.\n2. Classmates A is attending a seminar on starting a business and is excited about applying that knowledge to future plans.\n3. Classmates A appreciates the support and encouragement from Classmates B.\n4. Classmate B offers to support and potentially collaborate with Classmate A in the future.\n5. Classmates B is supportive and encourages Classmates A in their business venture.\n6. Classmates A has had a business idea for a while and is now taking steps to make it a reality.",
+        "speaker": "Classmates A",
+        "raw_prediction": "Yeah, I recently finished a custom-built bookshelf for a client. It was challenging, but I loved every minute of it. Thank you for always being so supportive of my carpentry work.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e9-s5-t8",
+        "current_dialogue": "Classmates A: I really enjoy being a carpenter. It's a very fulfilling job.\nClassmates B: That's great to hear! How did you get into carpentry?\nClassmates A: My dad was a carpenter, so I grew up around it. I started by helping him out when I was young, and then I began to really enjoy it myself.\nClassmates B: That's awesome that you were able to learn from your dad and turn it into a career. Have you done any big projects lately?\nClassmates A: Yeah, I just finished building a custom bookshelf for a client. It was a challenging project, but I'm really happy with how it turned out.\nClassmates B: That's impressive! You must have a lot of skill to be able to build something like that.\nClassmates A: Thanks! It definitely takes a lot of practice and attention to detail. But I find it really rewarding to see a finished product that I created with my own two hands.\nClassmates B: I can imagine. It must also be nice to have a steady income from your work.",
+        "memory_text": "1. Classmate B is supportive and encourages Classmate A to pursue their dream.\n2. Classmates A appreciates the support and encouragement from Classmates B.\n3. Classmates A is attending a seminar on starting a business and is excited about applying that knowledge to future plans.\n4. Classmates B is supportive and encourages Classmates A in their business venture.\n5. Classmates A has had a business idea for a while and is now taking steps to make it a reality.\n6. Classmates A is willing to work hard and learn the necessary strategies for business success.",
+        "speaker": "Classmates A",
+        "raw_prediction": "It really is nice to have a steady income doing something I love. It's all thanks to the support and encouragement from people like you that I'm able to pursue my dream.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e11-s5-t2",
+        "current_dialogue": "Neighbors A: I just visited this amazing new city. The architecture was stunning, the streets were so clean, and the people were very friendly.\nNeighbors B: Sounds like you had a great time! Which city did you visit?",
+        "memory_text": "1. Neighbors A enjoys living in the neighborhood, feeling comfortable and safe, and has made good friends, including Neighbors B.\n2. Neighbors A is excited to explore the neighborhood and make new friends.\n3. Neighbors B acknowledges Neighbors A's friendly and outgoing nature.\n4. Neighbors A appreciates having friendly faces around and hopes to make new friends soon.\n5. Neighbors A found a park and a coffee shop nearby that they want to visit.\n6. Neighbor A has been living in the same place for a long time and enjoys the neighborhood and people there.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "It was such a wonderful experience! I visited a city nearby called Riverdale. I can't wait to go back and explore more of it.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e11-s5-t4",
+        "current_dialogue": "Neighbors A: I just visited this amazing new city. The architecture was stunning, the streets were so clean, and the people were very friendly.\nNeighbors B: Sounds like you had a great time! Which city did you visit?\nNeighbors A: It was Chicago. I had never been before, but it exceeded all my expectations.\nNeighbors B: I bet it was a nice change of scenery from our neighborhood.",
+        "memory_text": "1. Neighbors A enjoys living in the neighborhood, feeling comfortable and safe, and has made good friends, including Neighbors B.\n2. Neighbors A is excited to explore the neighborhood and make new friends.\n3. Neighbors B acknowledges Neighbors A's friendly and outgoing nature.\n4. Neighbors A appreciates having friendly faces around and hopes to make new friends soon.\n5. Neighbors A just moved to a new neighborhood and is getting to know the area.\n6. Neighbor A has been living in the same place for a long time and enjoys the neighborhood and people there.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "It definitely was! But I have to say, coming back home to our neighborhood always feels like coming back to a warm and welcoming place.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e11-s5-t7",
+        "current_dialogue": "Neighbors A: I just visited this amazing new city. The architecture was stunning, the streets were so clean, and the people were very friendly.\nNeighbors B: Sounds like you had a great time! Which city did you visit?\nNeighbors A: It was Chicago. I had never been before, but it exceeded all my expectations.\nNeighbors B: I bet it was a nice change of scenery from our neighborhood.\nNeighbors A: Definitely. But you know, it's interesting how much our neighborhood has grown on me over the years. I remember when I first moved here, I was so unsure about it.\nNeighbors B: Yeah, I remember. But you stayed because you wanted to be here.\nNeighbors A: That's right. And since then, I've made so many great memories here. It's become my home.",
+        "memory_text": "1. Neighbors A enjoys living in the neighborhood, feeling comfortable and safe, and has made good friends, including Neighbors B.\n2. Neighbor A has been living in the same place for a long time and enjoys the neighborhood and people there.\n3. Neighbors A is excited to explore the neighborhood and make new friends.\n4. Neighbors B has been living in the neighborhood for some time and is supportive of Neighbors A.\n5. Neighbor B has moved around a lot over the years but is considering settling down in the current neighborhood.\n6. Neighbors A and B live in the same place and find comfort in it.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "It's amazing how time can really change your perspective on things. I'm glad you found a place that feels like home now.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e11-s5-t9",
+        "current_dialogue": "Neighbors A: I just visited this amazing new city. The architecture was stunning, the streets were so clean, and the people were very friendly.\nNeighbors B: Sounds like you had a great time! Which city did you visit?\nNeighbors A: It was Chicago. I had never been before, but it exceeded all my expectations.\nNeighbors B: I bet it was a nice change of scenery from our neighborhood.\nNeighbors A: Definitely. But you know, it's interesting how much our neighborhood has grown on me over the years. I remember when I first moved here, I was so unsure about it.\nNeighbors B: Yeah, I remember. But you stayed because you wanted to be here.\nNeighbors A: That's right. And since then, I've made so many great memories here. It's become my home.\nNeighbors B: And you're still spending time with God every day, right?\nNeighbors A: Yes, I am. It brings me so much peace and happiness.",
+        "memory_text": "1. Neighbors A enjoys living in the neighborhood, feeling comfortable and safe, and has made good friends, including Neighbors B.\n2. Neighbor A has been living in the same place for a long time and enjoys the neighborhood and people there.\n3. Neighbors A finds spending time with God brings them peace and happiness.\n4. Neighbors A finds peace and happiness by spending time with God daily, through prayer, reading the Bible, and listening to worship music.\n5. Neighbors B has been living in the neighborhood for some time and is supportive of Neighbors A.\n6. Neighbors A is excited to explore the neighborhood and make new friends.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "That's wonderful to hear. It's amazing how much our neighborhood has become a place of comfort and belonging for you.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e12-s5-t2",
+        "current_dialogue": "Classmates A:  I attended a really interesting talk today.\nClassmates B:  That sounds great. What was the talk about?",
+        "memory_text": "1. Classmate B is interested in attending a new technology conference next month.\n2. Classmates B noticed Classmates A's improvement and acknowledged their hard work.\n3. Classmates A's grades are looking good according to their teacher.\n4. Classmates B recalls a funny moment from high school involving Classmates A wearing pajamas to school.\n5. Classmates B is supportive of Classmates A's new relationship and believes they found someone who makes them happy.\n6. Classmate B is working on finishing a history project.",
+        "speaker": "Classmates A",
+        "raw_prediction": "It was all about the latest advancements in artificial intelligence. It was so fascinating!",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e12-s5-t3",
+        "current_dialogue": "Classmates A:  I attended a really interesting talk today.\nClassmates B:  That sounds great. What was the talk about?\nClassmates A: It was about the history of the pyramids in Egypt. I learned so much about their construction and the cultural significance they held.",
+        "memory_text": "1. Classmates B noticed Classmates A's improvement and acknowledged their hard work.\n2. Classmate B is working on finishing a history project.\n3. Classmates B recalls a funny moment from high school involving Classmates A wearing pajamas to school.\n4. Classmate B is interested in attending a new technology conference next month.\n5. Classmates A's grades are looking good according to their teacher.\n6. Classmates A had a moment of frustration in the past but has learned to channel that energy into studies.",
+        "speaker": "Classmates B",
+        "raw_prediction": "Wow, that sounds fascinating! It's amazing how much history is behind those ancient structures. I'm glad you had the opportunity to learn more about them.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e14-s5-t2",
+        "current_dialogue": "Parent: Child, I have a new project that I've been working on.\nChild: What is it, Parent?",
+        "memory_text": "1. The Child is caring and offers help to the Parent.\n2. The Parent is working and feels tired after a long day.\n3. The parent and child have open communication about various topics, including a past accident and the parent's willingness to contribute more to household chores.\n4. The Parent expresses a desire to be a better role model for the Child and their siblings.\n5. The Child offers to bring water or make soup for the Parent while they are resting.\n6. The Child supports the idea of the Parent adopting more children and hopes for a happy home for them.",
+        "speaker": "Parent",
+        "raw_prediction": "Parent: It's a big project that requires a lot of time and effort. I want to make sure I can balance it with everything else going on at home.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e14-s5-t8",
+        "current_dialogue": "Parent: Child, I have a new project that I've been working on.\nChild: What is it, Parent?\nParent: I created a website where I post advertisements, and people can pay to see them.\nChild: Oh, that's interesting. How does it work?\nParent: Well, I create the ads myself, and then I post them on my website. People who want to view the ads can pay a small fee, and then they can see them.\nChild: Do you think people will pay to see your ads?\nParent: I don't know yet, but I hope so. I've put a lot of effort into creating some eye-catching ads.\nChild: That sounds cool, but why do you want to make money from ads?",
+        "memory_text": "1. The Child supports the idea of the Parent adopting more children and hopes for a happy home for them.\n2. The Child is caring and offers help to the Parent.\n3. The parent and child have open communication about various topics, including a past accident and the parent's willingness to contribute more to household chores.\n4. The Parent expresses a desire to be a better role model for the Child and their siblings.\n5. The Parent is working and feels tired after a long day.\n6. The Parent expresses a desire to adopt more children in the future.",
+        "speaker": "Parent",
+        "raw_prediction": "I want to be able to provide for our family and potentially help more children in the future. It's important to me that we all have a happy home and a bright future.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e14-s5-t11",
+        "current_dialogue": "Parent: Child, I have a new project that I've been working on.\nChild: What is it, Parent?\nParent: I created a website where I post advertisements, and people can pay to see them.\nChild: Oh, that's interesting. How does it work?\nParent: Well, I create the ads myself, and then I post them on my website. People who want to view the ads can pay a small fee, and then they can see them.\nChild: Do you think people will pay to see your ads?\nParent: I don't know yet, but I hope so. I've put a lot of effort into creating some eye-catching ads.\nChild: That sounds cool, but why do you want to make money from ads?\nParent: Well, I want to have some extra income coming in. Plus, I enjoy being creative and making things, so this is a great way for me to combine those passions.\nChild: I see. Well, I hope it works out for you, Parent.\nParent: Thanks, Child. And who knows, maybe someday you can help me create some ads for the website.",
+        "memory_text": "1. The Child supports the idea of the Parent adopting more children and hopes for a happy home for them.\n2. The Child is caring and offers help to the Parent.\n3. The parent and child have open communication about various topics, including a past accident and the parent's willingness to contribute more to household chores.\n4. The Parent expresses a desire to be a better role model for the Child and their siblings.\n5. The child expresses gratitude for being adopted by the parent and believes other children will be lucky to have them as a parent.\n6. The Parent is working and feels tired after a long day.",
+        "speaker": "Child",
+        "raw_prediction": "That would be fun! I'd love to help out and be creative with you, Parent. Let me know if you need any ideas or assistance.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e15-s5-t1",
+        "current_dialogue": "Classmates A: Hey, have you checked out my new blog? It's all about promoting under-the-radar artists.",
+        "memory_text": "1. Classmates A has been pursuing their passions and enjoying life.\n2. Classmates A and B are in the same class and have had previous conversations about study tips.\n3. Classmates B encouraged Classmates A to step out of their comfort zone and try new things for personal growth.\n4. Classmates B supports Classmates A's perspective on living authentically and free from others' opinions.\n5. Classmates B gave advice to Classmates A in the past that paid off.\n6. Classmates A ended up taking Classmates B's advice and found success with it.",
+        "speaker": "Classmates A",
+        "raw_prediction": "That's awesome! I love that you're using your platform to support talented artists who may not get as much recognition. It's great to see you pursuing your passions and making a positive impact.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e16-s5-t6",
+        "current_dialogue": "Co-workers A: Hey, I just wanted to share some exciting news with you. I was promoted to product manager!\nCo-workers B: Really? Congrats! That's a big step up from your previous role.\nCo-workers A: Yeah, I'm feeling a mix of excitement and nervousness. It's a lot of responsibility, but I'm ready for the challenge.\nCo-workers B: I have no doubt that you'll do great. You've always been a strong leader and have a great eye for detail.\nCo-workers A: Thanks, that means a lot. I'm looking forward to working with the design team and coming up with some innovative new products.\nCo-workers B: Speaking of new products, remember when you used to fantasize about being a great leader?",
+        "memory_text": "1. Co-worker B encourages Co-worker A to consider pursuing a leadership position and highlights the qualities of a good leader.\n2. Co-worker A has fantasies of being a great leader.\n3. Co-worker A considers taking on more responsibility at work as a start towards being a leader.\n4. Co-worker A used to fantasize about being a great leader and being respected and admired.\n5. Co-worker A has grown and become more confident over the years.\n6. Co-worker A has aspirations of being a great leader and emphasizes the importance of communication.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "I do remember that. It's funny how things have come full circle. I guess dreams really do come true with hard work and determination.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e16-s5-t7",
+        "current_dialogue": "Co-workers A: Hey, I just wanted to share some exciting news with you. I was promoted to product manager!\nCo-workers B: Really? Congrats! That's a big step up from your previous role.\nCo-workers A: Yeah, I'm feeling a mix of excitement and nervousness. It's a lot of responsibility, but I'm ready for the challenge.\nCo-workers B: I have no doubt that you'll do great. You've always been a strong leader and have a great eye for detail.\nCo-workers A: Thanks, that means a lot. I'm looking forward to working with the design team and coming up with some innovative new products.\nCo-workers B: Speaking of new products, remember when you used to fantasize about being a great leader?\nCo-workers A: Ha, yeah. That seems like ages ago.",
+        "memory_text": "1. Co-worker B encourages Co-worker A to consider pursuing a leadership position and highlights the qualities of a good leader.\n2. Co-worker A has fantasies of being a great leader.\n3. Co-worker A used to fantasize about being a great leader and being respected and admired.\n4. Co-worker A has grown and become more confident over the years.\n5. Co-worker A considers taking on more responsibility at work as a start towards being a leader.\n6. Co-worker B acknowledges and supports Co-worker A's growth and progress.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "It's amazing to see how much you've grown and how confident you've become. Your journey to becoming a leader has been truly inspiring.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e16-s5-t10",
+        "current_dialogue": "Co-workers A: Hey, I just wanted to share some exciting news with you. I was promoted to product manager!\nCo-workers B: Really? Congrats! That's a big step up from your previous role.\nCo-workers A: Yeah, I'm feeling a mix of excitement and nervousness. It's a lot of responsibility, but I'm ready for the challenge.\nCo-workers B: I have no doubt that you'll do great. You've always been a strong leader and have a great eye for detail.\nCo-workers A: Thanks, that means a lot. I'm looking forward to working with the design team and coming up with some innovative new products.\nCo-workers B: Speaking of new products, remember when you used to fantasize about being a great leader?\nCo-workers A: Ha, yeah. That seems like ages ago.\nCo-workers B: Well, now you can finally take on that leadership role and make your dreams a reality.\nCo-workers A: That's true. It's amazing how life works out sometimes. But it hasn't always been smooth sailing. Remember when I was really stressed about you not liking me?\nCo-workers B: Yeah, I remember. But we worked through it, didn't we?",
+        "memory_text": "1. Co-worker B encourages Co-worker A to consider pursuing a leadership position and highlights the qualities of a good leader.\n2. Co-worker A used to fantasize about being a great leader and being respected and admired.\n3. Co-worker A has grown and become more confident over the years.\n4. Co-worker A has fantasies of being a great leader.\n5. Co-worker B acknowledges and supports Co-worker A's growth and progress.\n6. Co-worker A considers taking on more responsibility at work as a start towards being a leader.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "Yes, we definitely did. It's been a journey, but I'm grateful for your support through it all. I'm excited for this new chapter and I appreciate your encouragement along the way.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e16-s5-t12",
+        "current_dialogue": "Co-workers A: Hey, I just wanted to share some exciting news with you. I was promoted to product manager!\nCo-workers B: Really? Congrats! That's a big step up from your previous role.\nCo-workers A: Yeah, I'm feeling a mix of excitement and nervousness. It's a lot of responsibility, but I'm ready for the challenge.\nCo-workers B: I have no doubt that you'll do great. You've always been a strong leader and have a great eye for detail.\nCo-workers A: Thanks, that means a lot. I'm looking forward to working with the design team and coming up with some innovative new products.\nCo-workers B: Speaking of new products, remember when you used to fantasize about being a great leader?\nCo-workers A: Ha, yeah. That seems like ages ago.\nCo-workers B: Well, now you can finally take on that leadership role and make your dreams a reality.\nCo-workers A: That's true. It's amazing how life works out sometimes. But it hasn't always been smooth sailing. Remember when I was really stressed about you not liking me?\nCo-workers B: Yeah, I remember. But we worked through it, didn't we?\nCo-workers A: We definitely did. And it taught me to just take things one step at a time, like I am with this new role.\nCo-workers B: Exactly, and I'm sure you'll apply that same mentality to your training as well. I remember you were really dedicated to it a couple of years ago.",
+        "memory_text": "1. Co-worker B encourages Co-worker A to consider pursuing a leadership position and highlights the qualities of a good leader.\n2. Co-worker A used to fantasize about being a great leader and being respected and admired.\n3. Co-worker A has fantasies of being a great leader.\n4. Co-worker A considers taking on more responsibility at work as a start towards being a leader.\n5. Co-worker A has grown and become more confident over the years.\n6. Co-worker B acknowledges and supports Co-worker A's growth and progress.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "Thanks, I appreciate your support and encouragement. It's been a journey, but I feel like I've really grown and become more confident over the years. I'm excited to see where this new leadership role takes me.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e16-s5-t15",
+        "current_dialogue": "Co-workers A: Hey, I just wanted to share some exciting news with you. I was promoted to product manager!\nCo-workers B: Really? Congrats! That's a big step up from your previous role.\nCo-workers A: Yeah, I'm feeling a mix of excitement and nervousness. It's a lot of responsibility, but I'm ready for the challenge.\nCo-workers B: I have no doubt that you'll do great. You've always been a strong leader and have a great eye for detail.\nCo-workers A: Thanks, that means a lot. I'm looking forward to working with the design team and coming up with some innovative new products.\nCo-workers B: Speaking of new products, remember when you used to fantasize about being a great leader?\nCo-workers A: Ha, yeah. That seems like ages ago.\nCo-workers B: Well, now you can finally take on that leadership role and make your dreams a reality.\nCo-workers A: That's true. It's amazing how life works out sometimes. But it hasn't always been smooth sailing. Remember when I was really stressed about you not liking me?\nCo-workers B: Yeah, I remember. But we worked through it, didn't we?\nCo-workers A: We definitely did. And it taught me to just take things one step at a time, like I am with this new role.\nCo-workers B: Exactly, and I'm sure you'll apply that same mentality to your training as well. I remember you were really dedicated to it a couple of years ago.\nCo-workers A: Oh yeah, I still try to keep up with it whenever I can. It's important to stay physically and mentally fit, especially with this new job.\nCo-workers B: Just don't let your anger get the better of you again. Remember when you exploded and started throwing things?\nCo-workers A: Ugh, let's not even go there. My parents gave me a good scolding for that.",
+        "memory_text": "1. Co-worker B encourages Co-worker A to consider pursuing a leadership position and highlights the qualities of a good leader.\n2. Co-worker A used to fantasize about being a great leader and being respected and admired.\n3. Co-worker A has fantasies of being a great leader.\n4. Co-worker A has aspirations of being a great leader and emphasizes the importance of communication.\n5. Co-worker A has grown and become more confident over the years.\n6. Co-worker A considers taking on more responsibility at work as a start towards being a leader.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "Haha, yeah, that was definitely a memorable moment. But hey, we all have our moments of weakness. It's all about learning and growing from them. And look at you now, taking on this new leadership role with grace and confidence. I have no doubt you'll handle it all like a pro.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e16-s5-t16",
+        "current_dialogue": "Co-workers A: Hey, I just wanted to share some exciting news with you. I was promoted to product manager!\nCo-workers B: Really? Congrats! That's a big step up from your previous role.\nCo-workers A: Yeah, I'm feeling a mix of excitement and nervousness. It's a lot of responsibility, but I'm ready for the challenge.\nCo-workers B: I have no doubt that you'll do great. You've always been a strong leader and have a great eye for detail.\nCo-workers A: Thanks, that means a lot. I'm looking forward to working with the design team and coming up with some innovative new products.\nCo-workers B: Speaking of new products, remember when you used to fantasize about being a great leader?\nCo-workers A: Ha, yeah. That seems like ages ago.\nCo-workers B: Well, now you can finally take on that leadership role and make your dreams a reality.\nCo-workers A: That's true. It's amazing how life works out sometimes. But it hasn't always been smooth sailing. Remember when I was really stressed about you not liking me?\nCo-workers B: Yeah, I remember. But we worked through it, didn't we?\nCo-workers A: We definitely did. And it taught me to just take things one step at a time, like I am with this new role.\nCo-workers B: Exactly, and I'm sure you'll apply that same mentality to your training as well. I remember you were really dedicated to it a couple of years ago.\nCo-workers A: Oh yeah, I still try to keep up with it whenever I can. It's important to stay physically and mentally fit, especially with this new job.\nCo-workers B: Just don't let your anger get the better of you again. Remember when you exploded and started throwing things?\nCo-workers A: Ugh, let's not even go there. My parents gave me a good scolding for that.\nCo-workers B: Well, all that matters is that you learn from your mistakes and keep moving forward. And hey, you're doing just that with this promotion.",
+        "memory_text": "1. Co-worker B encourages Co-worker A to consider pursuing a leadership position and highlights the qualities of a good leader.\n2. Co-worker A has grown and become more confident over the years.\n3. Co-worker A used to fantasize about being a great leader and being respected and admired.\n4. Co-worker A considers taking on more responsibility at work as a start towards being a leader.\n5. Co-worker B acknowledges and supports Co-worker A's growth and progress.\n6. Co-worker A has fantasies of being a great leader.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "You're right, I've definitely learned from that experience and I'm determined to handle things differently now. Thanks for always being there to support me through it all.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e16-s5-t17",
+        "current_dialogue": "Co-workers A: Hey, I just wanted to share some exciting news with you. I was promoted to product manager!\nCo-workers B: Really? Congrats! That's a big step up from your previous role.\nCo-workers A: Yeah, I'm feeling a mix of excitement and nervousness. It's a lot of responsibility, but I'm ready for the challenge.\nCo-workers B: I have no doubt that you'll do great. You've always been a strong leader and have a great eye for detail.\nCo-workers A: Thanks, that means a lot. I'm looking forward to working with the design team and coming up with some innovative new products.\nCo-workers B: Speaking of new products, remember when you used to fantasize about being a great leader?\nCo-workers A: Ha, yeah. That seems like ages ago.\nCo-workers B: Well, now you can finally take on that leadership role and make your dreams a reality.\nCo-workers A: That's true. It's amazing how life works out sometimes. But it hasn't always been smooth sailing. Remember when I was really stressed about you not liking me?\nCo-workers B: Yeah, I remember. But we worked through it, didn't we?\nCo-workers A: We definitely did. And it taught me to just take things one step at a time, like I am with this new role.\nCo-workers B: Exactly, and I'm sure you'll apply that same mentality to your training as well. I remember you were really dedicated to it a couple of years ago.\nCo-workers A: Oh yeah, I still try to keep up with it whenever I can. It's important to stay physically and mentally fit, especially with this new job.\nCo-workers B: Just don't let your anger get the better of you again. Remember when you exploded and started throwing things?\nCo-workers A: Ugh, let's not even go there. My parents gave me a good scolding for that.\nCo-workers B: Well, all that matters is that you learn from your mistakes and keep moving forward. And hey, you're doing just that with this promotion.\nCo-workers A: Absolutely. Thanks for always being a supportive colleague, it means a lot to me.",
+        "memory_text": "1. Co-worker B encourages Co-worker A to consider pursuing a leadership position and highlights the qualities of a good leader.\n2. Co-worker B acknowledges and supports Co-worker A's growth and progress.\n3. Co-worker A has grown and become more confident over the years.\n4. Co-worker A used to fantasize about being a great leader and being respected and admired.\n5. Co-worker A considers taking on more responsibility at work as a start towards being a leader.\n6. Co-worker A has aspirations of being a great leader and emphasizes the importance of communication.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "I'll always be here to support you, no matter what. You've come a long way and I have no doubt that you'll continue to excel in your new role as a product manager. Congratulations again!",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e17-s5-t1",
+        "current_dialogue": "Neighbors A: I just tried this breathing exercise and it really helped me relax.",
+        "memory_text": "1. Neighbor B reassures Neighbor A about past embarrassing incidents and emphasizes their current friendship.\n2. Neighbors A did this as a gesture of appreciation for Neighbors B's actions in the neighborhood.\n3. Neighbors A surprised Neighbors B with a pizza.\n4. Neighbors A is willing to take things slow in their relationship with Neighbors B.\n5. Neighbors A has developed romantic feelings for Neighbors B.\n6. Neighbor A went to the park with their son, who had a great time.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "I'm glad to hear that the breathing exercise helped you relax. It's important to take care of yourself, especially during stressful times.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e17-s5-t2",
+        "current_dialogue": "Neighbors A: I just tried this breathing exercise and it really helped me relax.\nNeighbors B: What kind of breathing exercise?",
+        "memory_text": "1. Neighbors A did this as a gesture of appreciation for Neighbors B's actions in the neighborhood.\n2. Neighbors A is willing to take things slow in their relationship with Neighbors B.\n3. Neighbors A surprised Neighbors B with a pizza.\n4. Neighbor B reassures Neighbor A about past embarrassing incidents and emphasizes their current friendship.\n5. Neighbors A has developed romantic feelings for Neighbors B.\n6. Neighbor A and Neighbor B found a park together a couple of years ago and enjoyed playing frisbee and having a picnic.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "It's called the 4-7-8 technique. You inhale for 4 seconds, hold your breath for 7 seconds, and then exhale for 8 seconds. It's been really helpful for me lately.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e17-s5-t4",
+        "current_dialogue": "Neighbors A: I just tried this breathing exercise and it really helped me relax.\nNeighbors B: What kind of breathing exercise?\nNeighbors A: It's just a simple one, where you inhale for four seconds, hold your breath for seven seconds, and then exhale for eight seconds. I've been doing it every day for the past week and it's made such a difference.\nNeighbors B: That's really interesting. I've heard that breathing exercises can be really helpful for reducing stress and anxiety.",
+        "memory_text": "1. Neighbors A is willing to take things slow in their relationship with Neighbors B.\n2. Neighbor B reassures Neighbor A about past embarrassing incidents and emphasizes their current friendship.\n3. Neighbors A did this as a gesture of appreciation for Neighbors B's actions in the neighborhood.\n4. Neighbors A has developed romantic feelings for Neighbors B.\n5. Neighbor A and Neighbor B found a park together a couple of years ago and enjoyed playing frisbee and having a picnic.\n6. Neighbors B values their friendship with Neighbors A.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "Yeah, it's been a game-changer for me. I appreciate you always being so supportive and understanding.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e17-s5-t7",
+        "current_dialogue": "Neighbors A: I just tried this breathing exercise and it really helped me relax.\nNeighbors B: What kind of breathing exercise?\nNeighbors A: It's just a simple one, where you inhale for four seconds, hold your breath for seven seconds, and then exhale for eight seconds. I've been doing it every day for the past week and it's made such a difference.\nNeighbors B: That's really interesting. I've heard that breathing exercises can be really helpful for reducing stress and anxiety.\nNeighbors A: Yes, it definitely has helped me with that. Plus, it's something that I can easily do anywhere, whether I'm at home or out running errands.\nNeighbors B: That's great. It's always good to have a simple tool like that to help manage stress. \nNeighbors A: Speaking of managing stress, remember a few years ago when I pushed your shoulder because I wanted you to accept me?",
+        "memory_text": "1. Neighbor B reassures Neighbor A about past embarrassing incidents and emphasizes their current friendship.\n2. Neighbor A is embarrassed about a past incident where they pushed Neighbor B's shoulder to gain acceptance.\n3. Neighbors A did this as a gesture of appreciation for Neighbors B's actions in the neighborhood.\n4. Neighbors A is willing to take things slow in their relationship with Neighbors B.\n5. Neighbors A has developed romantic feelings for Neighbors B.\n6. Neighbors B values their friendship with Neighbors A.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "Oh, don't even worry about that anymore. We've come a long way since then and our friendship means more to me than any past incidents.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e17-s5-t10",
+        "current_dialogue": "Neighbors A: I just tried this breathing exercise and it really helped me relax.\nNeighbors B: What kind of breathing exercise?\nNeighbors A: It's just a simple one, where you inhale for four seconds, hold your breath for seven seconds, and then exhale for eight seconds. I've been doing it every day for the past week and it's made such a difference.\nNeighbors B: That's really interesting. I've heard that breathing exercises can be really helpful for reducing stress and anxiety.\nNeighbors A: Yes, it definitely has helped me with that. Plus, it's something that I can easily do anywhere, whether I'm at home or out running errands.\nNeighbors B: That's great. It's always good to have a simple tool like that to help manage stress. \nNeighbors A: Speaking of managing stress, remember a few years ago when I pushed your shoulder because I wanted you to accept me?\nNeighbors B: Oh yeah, I do remember that. That was a stressful time for both of us.\nNeighbors A: It definitely was. But I'm so glad that we've been able to move past that and have a good neighborly relationship now.\nNeighbors B: Me too. And remember when you found that great park a few years ago?",
+        "memory_text": "1. Neighbor B reassures Neighbor A about past embarrassing incidents and emphasizes their current friendship.\n2. Neighbors A did this as a gesture of appreciation for Neighbors B's actions in the neighborhood.\n3. Neighbors B values their friendship with Neighbors A.\n4. Neighbor A and Neighbor B found a park together a couple of years ago and enjoyed playing frisbee and having a picnic.\n5. Neighbors A is willing to take things slow in their relationship with Neighbors B.\n6. Neighbors A has developed romantic feelings for Neighbors B.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "Yes, that day at the park was so much fun. I really appreciated the time we spent together playing frisbee and having a picnic. It's nice to have those memories to look back on.",
+        "previous_summary": "Neighbor A recently discovered a park on Main Street with a playground and water park area.\nNeighbor A went to the park with their son, who had a great time.\nNeighbor A and Neighbor B found a park together a couple of years ago and enjoyed playing frisbee and having a picnic."
+    },
+    {
+        "utter_id": "e18-s5-t1",
+        "current_dialogue": "Neighbors A: Can you believe it? I'm a millionaire now!",
+        "memory_text": "1. Neighbors A made a big career change recently and is much happier now.\n2. Neighbors A took the leap to make a change and is glad they did.\n3. Neighbors B is supportive of Neighbors A's decision and admires the courage it took.\n4. Neighbors A's husband thinks they are crazy for believing they saw a UFO.\n5. Neighbors A is feeling stagnant in their current job and is looking for more growth and challenge.\n6. Neighbors A believes they saw a UFO in their backyard and still thinks it was real, finding it crazy to think about.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "That's amazing! I'm so happy for you. Your hard work and determination really paid off.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e18-s5-t2",
+        "current_dialogue": "Neighbors A: Can you believe it? I'm a millionaire now!\nNeighbors B: Wow, that's incredible! How did it happen?",
+        "memory_text": "1. Neighbors A made a big career change recently and is much happier now.\n2. Neighbors A and B had a conversation a couple of years ago about needing a change.\n3. Neighbors A took the leap to make a change and is glad they did.\n4. Neighbors A appreciates Neighbors B's understanding and willingness to listen and talk about the experience.\n5. Neighbors B is supportive of Neighbors A's decision and admires the courage it took.\n6. Neighbors A and B have a friendly and supportive relationship.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "I know, it feels surreal! Remember when we talked about needing a change a couple of years ago? I finally took the leap and it paid off big time.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e18-s5-t3",
+        "current_dialogue": "Neighbors A: Can you believe it? I'm a millionaire now!\nNeighbors B: Wow, that's incredible! How did it happen?\nNeighbors A: I inherited it from a distant relative. It's still sinking in, to be honest.",
+        "memory_text": "1. Neighbors A made a big career change recently and is much happier now.\n2. Neighbors B is supportive of Neighbors A's decision and admires the courage it took.\n3. Neighbors A took the leap to make a change and is glad they did.\n4. Neighbors A and B had a conversation a couple of years ago about needing a change.\n5. Neighbors A appreciates Neighbors B's understanding and willingness to listen and talk about the experience.\n6. Neighbors B has been supportive of Neighbors A's job search, offering to connect them with people in different industries.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "That's amazing! I'm so happy for you. It's great to see everything falling into place for you after all the hard work you've put in.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e19-s5-t3",
+        "current_dialogue": "Neighbors A: I'm sorry you had to hear me swear like that. I shouldn't have lost my temper like that.\nNeighbors B: It's okay, I understand how frustrating things can be sometimes. What got you so upset?\nNeighbors A: It was just something that happened at work. My boss was being unreasonable and I couldn't take it anymore.",
+        "memory_text": "1. Neighbors B is supportive and understanding of Neighbors A's mistake.\n2. Neighbors A values appreciation and expresses gratitude for help received.\n3. Neighbors B recalls when Neighbors A helped with their lawn, showing mutual support between them.\n4. Neighbors A is detail-oriented and strives for perfection.\n5. Neighbors A and B are helpful towards each other.\n6. Neighbors A and B live in the same neighborhood and help each other with tasks.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "I get it, work can be really stressful. Just remember, we all have bad days. If you ever need to talk about it, I'm here for you.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e19-s5-t4",
+        "current_dialogue": "Neighbors A: I'm sorry you had to hear me swear like that. I shouldn't have lost my temper like that.\nNeighbors B: It's okay, I understand how frustrating things can be sometimes. What got you so upset?\nNeighbors A: It was just something that happened at work. My boss was being unreasonable and I couldn't take it anymore.\nNeighbors B: That's understandable. Have you tried talking to your boss about it?",
+        "memory_text": "1. Neighbors B is supportive and understanding of Neighbors A's mistake.\n2. Neighbors A and B are helpful towards each other.\n3. Neighbors B recalls when Neighbors A helped with their lawn, showing mutual support between them.\n4. Neighbors A values appreciation and expresses gratitude for help received.\n5. Neighbors A wants to rearrange their living room and Neighbors B has experience with rearranging furniture.\n6. Neighbors A and B have a positive and helpful relationship as neighbors.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "I did try to address my concerns with my boss, but it didn't go as well as I had hoped. I appreciate you listening to me vent about it though.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e20-s5-t10",
+        "current_dialogue": "Co-workers A: Hey, guess what? I sang a solo at church this past weekend!\nCo-workers B: That's awesome! I didn't know you sang.\nCo-workers A: Yeah, it's something I've always loved to do but haven't had the chance to do it in a while.\nCo-workers B: Well, it sounds like you did a great job. What did you sing?\nCo-workers A: I sang \"Amazing Grace\". It's always been one of my favorites.\nCo-workers B: That's such a beautiful song. You have a great voice.\nCo-workers A: Thank you! It was really nerve-wracking, but I'm glad I did it.\nCo-workers B: I'm sure the audience loved it. You've really got some talent.\nCo-workers A: Thanks again. It's just something I do for fun, but it's nice to know people enjoy it.\nCo-workers B: Definitely. It's great to have a hobby like that. Reminds me of when you uncovered that mystery a while back. You always seem to surprise us with your skills.",
+        "memory_text": "1. Co-worker A and Co-worker B shared happy memories from their time working together.\n2. Co-worker A has a talent for solving puzzles and mysteries.\n3. Co-worker B was surprised when Co-worker A found out they were married.\n4. Co-worker A is described as having \"Sherlock Holmes-like skills\" and enjoys solving mysteries.\n5. Co-worker A enjoys solving puzzles and mysteries, even considering becoming a detective.\n6. Co-worker A suggests celebrating their detective work with drinks after work.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "Haha, I guess I do have a knack for uncovering surprises. Maybe I should consider a career change to detective work! But for now, let's celebrate with drinks after work.",
+        "previous_summary": "Co-worker A is described as having \"Sherlock Holmes-like skills\" and enjoys solving mysteries.\nCo-worker A discovered that an employee was hiding clothes to sell on the side.\nCo-worker A enjoys solving puzzles and mysteries, even considering becoming a detective.\nCo-worker A has a talent for solving puzzles and mysteries."
+    },
+    {
+        "utter_id": "e21-s5-t9",
+        "current_dialogue": "Husband: I hung up some more lights and candles today.\nWife: That's lovely! I always feel so cozy and comfortable when you do that.\nHusband: I know, and I love making the apartment feel like a warm and welcoming space for you.\nWife: You always go above and beyond, dear.\nHusband: It's the little things that count, right?\nWife: Definitely. Speaking of little things, do you remember when you told me about catching the bus just in time a few months ago?\nHusband: Oh yes, I remember. I was so relieved I didn't have to wait in the cold for the next one.\nWife: It's amazing how small moments like that can make such a big difference in our day, isn't it?\nHusband: Absolutely. It's the small moments that make life worth living.",
+        "memory_text": "1. Both the husband and wife agree that it's the little things that add up and make life meaningful.\n2. The husband appreciates the little things in life, such as making it to the bus on time.\n3. The wife is glad to see the husband finding a sense of purpose and being happy.\n4. The husband feels supported by his wife in pursuing activities that make him happy outside of work and family life.\n5. The husband believes it's important to cherish meaningful connections in life, like the one he has with his friend.\n6. Husband values the supportive community of believers at church and appreciates having his wife by his side.",
+        "speaker": "Wife",
+        "raw_prediction": "It's true, those little victories can really brighten up our day. I'm so glad you appreciate those moments too.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e23-s5-t6",
+        "current_dialogue": "Student: Whew! This hot sauce really makes my mouth burn.\nTeacher: Hot sauce can definitely make things spicy. Do you enjoy the sensation?\nStudent: It's a love-hate relationship. I enjoy the flavor, but sometimes it's too much to handle.\nTeacher: That's understandable. Did you know that some people build up a tolerance to spicy foods over time?\nStudent: Really? Maybe I should try to build up my tolerance then.\nTeacher: It could be worth a try. Speaking of trying new things, how's your language studying going?",
+        "memory_text": "1. The teacher and student have a positive and understanding relationship.\n2. The student is studying French at college and plans on learning Spanish and German as well.\n3. The student mentioned feeling stressed lately, which may have led to the outburst.\n4. The teacher expressed understanding and encouraged the student to seek help when needed.\n5. The teacher speaks Spanish and French fluently.\n6. The teacher advises the student on effective communication and problem-solving, emphasizing the importance of talking calmly and finding solutions together.",
+        "speaker": "Student",
+        "raw_prediction": "I've been enjoying learning French so far, but I can't wait to start Spanish and German as well. It's going to be a challenge, but I'm excited to expand my language skills.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e23-s5-t10",
+        "current_dialogue": "Student: Whew! This hot sauce really makes my mouth burn.\nTeacher: Hot sauce can definitely make things spicy. Do you enjoy the sensation?\nStudent: It's a love-hate relationship. I enjoy the flavor, but sometimes it's too much to handle.\nTeacher: That's understandable. Did you know that some people build up a tolerance to spicy foods over time?\nStudent: Really? Maybe I should try to build up my tolerance then.\nTeacher: It could be worth a try. Speaking of trying new things, how's your language studying going?\nStudent: It's going pretty well. I started with French, but now I'm considering taking up Spanish and German too. I want to become more well-rounded.\nTeacher: That's a great goal. Have you thought about any specific ways you could use your language skills?\nStudent: I would love to be able to travel more and speak with the locals in their native language. Maybe I could even teach my grandchildren some basic phrases.\nTeacher: Speaking of your grandchildren, how's your retirement planning going?",
+        "memory_text": "1. The student is studying French at college and plans on learning Spanish and German as well.\n2. The student expresses excitement about retiring and spending time with their grandkids, already planning fun activities.\n3. The teacher encourages the student's retirement plans, highlighting the importance of focusing on family during retirement.\n4. The teacher speaks Spanish and French fluently.\n5. The student is looking forward to retirement and spending time with their grandchildren.\n6. The student has already made plans with their daughter and son-in-law to visit more often and take the grandkids on trips.",
+        "speaker": "Student",
+        "raw_prediction": "I'm so excited about retirement! I've already made plans with my daughter and son-in-law to visit more often and take the grandkids on trips. It's going to be a blast!",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e24-s5-t5",
+        "current_dialogue": "Neighbors A: I marked the boundary line with a pen on the wall so that we can both be clear about where my property ends and your property begins.\nNeighbors B: Oh, okay. I didn't realize there was any confusion about that.\nNeighbors A: Well, I just wanted to make sure we're on the same page. I don't want any misunderstandings in the future.\nNeighbors B: I understand. Is there anything else we should do to make sure we're clear about this?\nNeighbors A: I don't think so, but if you have any other suggestions, I'm open to hearing them.",
+        "memory_text": "1. Neighbors B offers to be more supportive and check in on Neighbors A more often.\n2. Both neighbors emphasize the importance of taking care of each other as neighbors.\n3. Neighbors A offers to help Neighbors B with getting into a workout routine.\n4. Neighbor A enjoys reading and sharing books with Neighbor B.\n5. Neighbor A and Neighbor B went to a concert together in the past and had a great time.\n6. Neighbor B enjoys listening to Neighbor A read and is interested in reading more.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "How about we take a photo of the boundary line so we both have a reference in case we forget?",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e24-s5-t7",
+        "current_dialogue": "Neighbors A: I marked the boundary line with a pen on the wall so that we can both be clear about where my property ends and your property begins.\nNeighbors B: Oh, okay. I didn't realize there was any confusion about that.\nNeighbors A: Well, I just wanted to make sure we're on the same page. I don't want any misunderstandings in the future.\nNeighbors B: I understand. Is there anything else we should do to make sure we're clear about this?\nNeighbors A: I don't think so, but if you have any other suggestions, I'm open to hearing them.\nNeighbors B: No, I think the line is a good idea. It's clear and simple.\nNeighbors A: Great. Hey, speaking of lines and boundaries, remember when we talked about my promotion at work? I had to set some clear boundaries with my team about what I expected from them.",
+        "memory_text": "1. Neighbors B offers to be more supportive and check in on Neighbors A more often.\n2. Neighbors A believes in setting goals, developing a positive attitude, and taking action for personal development and career advancement.\n3. Both neighbors emphasize the importance of taking care of each other as neighbors.\n4. Neighbors B was read to from a book about personal development by Neighbors A, which had a positive impact on Neighbors A's career growth.\n5. Neighbors B admires Neighbors A's career advancement and expresses interest in borrowing the personal development book.\n6. Neighbors A offers to help Neighbors B with getting into a workout routine.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "That's awesome to hear! Setting boundaries and expectations is crucial for success in any aspect of life. It sounds like your career growth is really taking off.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e25-s5-t5",
+        "current_dialogue": "Classmates A:  I can't believe how honored I am to be part of our class. I feel like we have something special going on here.\nClassmates B:  You're right. Our class definitely has a unique energy about it. What do you think sets us apart from other classes?\nClassmates A:  I think it's our sense of community. We all support each other and work together to achieve our goals.\nClassmates B:  That's definitely a big factor. And I also think our class has a lot of diversity, which brings new perspectives and ideas to the table.\nClassmates A:  Yes, absolutely. I love hearing everyone's different viewpoints and experiences. It really helps us all grow and learn.",
+        "memory_text": "1. Classmates B complimented Classmates A on their suit and brought up a past conversation about feelings.\n2. Classmates B appreciates Classmates A's honesty about their feelings, but doesn't feel the same way.\n3. Classmate B feels relieved that they can still be friends with Classmate A.\n4. Classmates A values their friendship with Classmates B and looks forward to wearing a black suit to a wedding reception.\n5. Despite the rejection, Classmate A values their friendship with Classmate B.\n6. Classmate A has been hiding their feelings for Classmate B and finally confesses to being in love with them.",
+        "speaker": "Classmates B",
+        "raw_prediction": "I completely agree. It's so refreshing to be surrounded by such a dynamic group of individuals. I'm grateful to have you as a friend in this class.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e25-s5-t6",
+        "current_dialogue": "Classmates A:  I can't believe how honored I am to be part of our class. I feel like we have something special going on here.\nClassmates B:  You're right. Our class definitely has a unique energy about it. What do you think sets us apart from other classes?\nClassmates A:  I think it's our sense of community. We all support each other and work together to achieve our goals.\nClassmates B:  That's definitely a big factor. And I also think our class has a lot of diversity, which brings new perspectives and ideas to the table.\nClassmates A:  Yes, absolutely. I love hearing everyone's different viewpoints and experiences. It really helps us all grow and learn.\nClassmates B:  And it's not just in the classroom, but also in extracurricular activities and events. We always have a strong turnout and participation.",
+        "memory_text": "1. Classmates B complimented Classmates A on their suit and brought up a past conversation about feelings.\n2. Classmate B feels relieved that they can still be friends with Classmate A.\n3. Classmates B appreciates Classmates A's honesty about their feelings, but doesn't feel the same way.\n4. Classmates A values their friendship with Classmates B and looks forward to wearing a black suit to a wedding reception.\n5. Despite the rejection, Classmate A values their friendship with Classmate B.\n6. Classmates B enjoys people watching at the mall.",
+        "speaker": "Classmates A",
+        "raw_prediction": "I completely agree. It's so great to see everyone come together outside of class too. Speaking of events, I'm looking forward to wearing my black suit to the wedding reception next week. It's going to be a fun time.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e26-s5-t9",
+        "current_dialogue": "Co-workers A: Hey, did I tell you that I went to the post office today?\nCo-workers B: No, you didn't. What did you do there?\nCo-workers A: I paid for postage to send a package. It was a bit of a hassle, but I got it done.\nCo-workers B: That's good. I hate going to the post office. It's always so crowded.\nCo-workers A: Yeah, it was pretty busy today. But I needed to get this package sent out.\nCo-workers B: Speaking of packages, remember that time when you got stranded because you couldn't drive yourself home from a night out with friends?\nCo-workers A: Ugh, don't remind me. That was such a disaster.\nCo-workers B: It was definitely not one of your finest moments. But it's good to see that you're being responsible now and taking care of things like sending packages.\nCo-workers A: Thanks. I'm trying to be more responsible and reliable these days.",
+        "memory_text": "1. Co-worker A is trying to be more responsible but still working on avoiding late nights out and expensive rides.\n2. Co-worker B is supportive of Co-worker A's efforts to improve their life by being more responsible and reliable.\n3. Co-worker B is aware of Co-worker A's struggles with late nights out and expensive Uber rides.\n4. Co-worker A is trying to improve their punctuality and cut back on drinking.\n5. Co-worker B is concerned about Co-worker A's punctuality and drinking habits.\n6. Co-worker B advises Co-worker A to be more disciplined and plan ahead for their actions.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "I'm proud of you for making those changes. Just remember to keep pushing yourself and stay disciplined in all aspects of your life. You're on the right track.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e26-s5-t12",
+        "current_dialogue": "Co-workers A: Hey, did I tell you that I went to the post office today?\nCo-workers B: No, you didn't. What did you do there?\nCo-workers A: I paid for postage to send a package. It was a bit of a hassle, but I got it done.\nCo-workers B: That's good. I hate going to the post office. It's always so crowded.\nCo-workers A: Yeah, it was pretty busy today. But I needed to get this package sent out.\nCo-workers B: Speaking of packages, remember that time when you got stranded because you couldn't drive yourself home from a night out with friends?\nCo-workers A: Ugh, don't remind me. That was such a disaster.\nCo-workers B: It was definitely not one of your finest moments. But it's good to see that you're being responsible now and taking care of things like sending packages.\nCo-workers A: Thanks. I'm trying to be more responsible and reliable these days.\nCo-workers B: That's great to hear. It reminds me of the time when you were a great leader in your country. You were strong, determined, and made a positive impact.\nCo-workers A: Wow, that was a long time ago. But I appreciate the compliment. It's nice to be reminded of my successes.\nCo-workers B: Yeah, and even though you had some rough times in your personal life, like that painful breakup, you still managed to pick yourself up and move forward.",
+        "memory_text": "1. Co-worker B is supportive of Co-worker A's efforts to improve their life by being more responsible and reliable.\n2. Co-worker A was a leader in their country, making it prosperous and safe.\n3. Both co-workers show a supportive and caring attitude towards each other.\n4. Co-worker B is supportive and encourages Co-worker A to give people a chance.\n5. Co-worker A believes their success as a leader was due to determination and strength of character.\n6. Co-worker A is trying to be more responsible but still working on avoiding late nights out and expensive rides.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "Yeah, that breakup was tough, but I've learned a lot from it. It's all about moving forward and focusing on being the best version of myself now. Thanks for always being so supportive, it means a lot to me.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e27-s5-t11",
+        "current_dialogue": "Neighbors A: Hey neighbor, how's it going?\nNeighbors B: Not bad, thanks. How about you?\nNeighbors A: Oh, I'm doing alright. I was just thinking about the old days when I had my rock band.\nNeighbors B: Really? You had a band?\nNeighbors A: Yeah, we were called \"The Neighbors A Band.\" We used to play live shows around the city.\nNeighbors B: That's awesome! What kind of music did you guys play?\nNeighbors A: We played rock music, mostly covers but we also wrote some of our own songs.\nNeighbors B: Have you ever thought about starting the band again?\nNeighbors A: Not really, it was just a fun hobby back then. Plus, I don't think I have the same energy as I did when I was younger.\nNeighbors B: That's understandable. Do you still play any instruments?\nNeighbors A: I have a guitar but I haven't played it in a while. Maybe I should start practicing again.",
+        "memory_text": "1. Neighbors A looks forward to playing with Neighbors B again when feeling better.\n2. Neighbors A and Neighbors B enjoy playing together with toys.\n3. Neighbors B is familiar with Neighbors A's dog and looking forward to playing with it again.\n4. Neighbors A appreciated the support and friendship of Neighbors B.\n5. Neighbors B expresses concern for Neighbors A's back pain.\n6. Neighbors A mentions having back pain and needing a break.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "That's a great idea! Playing music can be a great way to relax and unwind. Plus, maybe we can jam together sometime.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e27-s5-t14",
+        "current_dialogue": "Neighbors A: Hey neighbor, how's it going?\nNeighbors B: Not bad, thanks. How about you?\nNeighbors A: Oh, I'm doing alright. I was just thinking about the old days when I had my rock band.\nNeighbors B: Really? You had a band?\nNeighbors A: Yeah, we were called \"The Neighbors A Band.\" We used to play live shows around the city.\nNeighbors B: That's awesome! What kind of music did you guys play?\nNeighbors A: We played rock music, mostly covers but we also wrote some of our own songs.\nNeighbors B: Have you ever thought about starting the band again?\nNeighbors A: Not really, it was just a fun hobby back then. Plus, I don't think I have the same energy as I did when I was younger.\nNeighbors B: That's understandable. Do you still play any instruments?\nNeighbors A: I have a guitar but I haven't played it in a while. Maybe I should start practicing again.\nNeighbors B: Yeah, that sounds like a good idea. Maybe you could even teach me a thing or two.\nNeighbors A: Sure, I'd be happy to. Maybe we could even play some music together.\nNeighbors B: That would be great! I've always wanted to learn how to play an instrument.",
+        "memory_text": "1. Neighbors A looks forward to playing with Neighbors B again when feeling better.\n2. Neighbors A and Neighbors B enjoy playing together with toys.\n3. Neighbors B is familiar with Neighbors A's dog and looking forward to playing with it again.\n4. Neighbors A appreciated the support and friendship of Neighbors B.\n5. Neighbor B is interested in chiropractic care after hearing about Neighbor A's positive experience.\n6. Neighbors B expresses concern for Neighbors A's back pain.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "That would be a lot of fun! I'm looking forward to playing music with you.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e28-s5-t1",
+        "current_dialogue": "Co-workers A: I just gave my boss the written report. I hope she finds it helpful.",
+        "memory_text": "1. Co-worker B finished a project and sent it to the manager for review.\n2. Co-worker B appreciates the pen and thanks Co-worker A for the gesture.\n3. Co-worker A gave Co-worker B a pen as a thoughtful gesture.\n4. Co-worker A believes the project will be approved with flying colors.\n5. Co-worker A gave Co-worker B a pen as a symbol of trust in their professional relationship.\n6. Co-worker A gave Co-worker B a pen that they still use.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "That's great! I'm sure she will appreciate the effort you put into it.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e28-s5-t3",
+        "current_dialogue": "Co-workers A: I just gave my boss the written report. I hope she finds it helpful.\nCo-workers B: Did you make sure to include all the necessary details?\nCo-workers A: Yes, I made sure to cover everything we talked about in the meeting. I even added some extra information that I thought could be useful.",
+        "memory_text": "1. Co-worker B finished a project and sent it to the manager for review.\n2. Co-worker A believes the project will be approved with flying colors.\n3. Co-worker B appreciates the pen and thanks Co-worker A for the gesture.\n4. Co-worker A gave Co-worker B a pen as a thoughtful gesture.\n5. Co-worker A gave Co-worker B a pen that they still use.\n6. Both Co-worker A and Co-worker B value trust in their personal and professional relationships.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "That's great! I'm sure your thoroughness will impress the boss. Your attention to detail always shines through in your work.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e28-s5-t8",
+        "current_dialogue": "Co-workers A: I just gave my boss the written report. I hope she finds it helpful.\nCo-workers B: Did you make sure to include all the necessary details?\nCo-workers A: Yes, I made sure to cover everything we talked about in the meeting. I even added some extra information that I thought could be useful.\nCo-workers B: That's smart thinking. It shows that you're invested in the company and want to make sure things run smoothly.\nCo-workers A: Thanks. I learned a lot from taking over the family business. It taught me the importance of being efficient and proactive.\nCo-workers B: I remember you telling me about that. It's amazing how much you've accomplished since then.\nCo-workers A: It's been a journey, but I'm glad to see the business flourishing. It gives me a sense of pride and accomplishment.\nCo-workers B: I can tell. You're always trying to find ways to improve things.",
+        "memory_text": "1. Co-worker A has a family business that has been doing well recently.\n2. Co-worker A took over their family's business a few years ago and it has improved since then.\n3. Co-worker B appreciates the pen and thanks Co-worker A for the gesture.\n4. Co-worker A took over the family business and made changes to adapt to modern times.\n5. Co-worker A made changes to modernize processes and invest in new technology for the business.\n6. Co-worker A's father was hesitant to hand over the business but now trusts Co-worker A.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "I believe that continuous improvement is key to success in any business. It's important to always strive for better and never be complacent.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e30-s5-t3",
+        "current_dialogue": "Co-workers A: I really enjoy public speaking. It's such a great way to connect with people and convey a message.\nCo-workers B: I can see that you're a natural speaker. Your words always have a way of making people feel comfortable and confident.\nCo-workers A: Thank you! I've been practicing for a while now, and I'm glad that it shows.",
+        "memory_text": "1. Co-worker B commends Co-worker A for having the courage to stand up and defend their beliefs.\n2. Co-worker A agrees to be more conscious of how they come across to others in the future.\n3. Co-worker A has experience dealing with challenging clients and emphasizes the importance of communication and setting expectations.\n4. Co-worker B is supportive and interested in the evidence collected by Co-worker A.\n5. Co-worker A's evidence includes statistics and personal accounts from clients.\n6. Co-worker A is a skilled builder who recently completed building a house for Co-worker B.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "That's great to hear! It really does show in your interactions with others. Your confidence and ability to connect with people definitely shine through.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e30-s5-t4",
+        "current_dialogue": "Co-workers A: I really enjoy public speaking. It's such a great way to connect with people and convey a message.\nCo-workers B: I can see that you're a natural speaker. Your words always have a way of making people feel comfortable and confident.\nCo-workers A: Thank you! I've been practicing for a while now, and I'm glad that it shows.\nCo-workers B: Speaking of skills, you always present a compelling argument in debates. I remember when you presented your evidence in court, it was so persuasive.",
+        "memory_text": "1. Co-worker A plans to present the evidence clearly and persuasively in court.\n2. Co-worker A has been collecting evidence for a case and is confident in the strength of their argument.\n3. Co-worker A has presented evidence in front of a judge to support their position in the past.\n4. Co-worker B commends Co-worker A for having the courage to stand up and defend their beliefs.\n5. Co-worker A's evidence includes statistics and personal accounts from clients.\n6. Co-worker B is supportive and interested in the evidence collected by Co-worker A.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "I appreciate your kind words. It means a lot to me that you find my arguments compelling. I always strive to present my evidence clearly and persuasively to make a strong case.",
+        "previous_summary": "Co-worker A has been collecting evidence for a case and is confident in the strength of their argument.\nCo-worker B is supportive and interested in the evidence collected by Co-worker A.\nCo-worker A's evidence includes statistics and personal accounts from clients.\nCo-worker A believes their evidence is more compelling than the opposing side's evidence.\nCo-worker A plans to present the evidence clearly and persuasively in court.\nCo-worker A has presented evidence in front of a judge to support their position in the past."
+    },
+    {
+        "utter_id": "e30-s5-t12",
+        "current_dialogue": "Co-workers A: I really enjoy public speaking. It's such a great way to connect with people and convey a message.\nCo-workers B: I can see that you're a natural speaker. Your words always have a way of making people feel comfortable and confident.\nCo-workers A: Thank you! I've been practicing for a while now, and I'm glad that it shows.\nCo-workers B: Speaking of skills, you always present a compelling argument in debates. I remember when you presented your evidence in court, it was so persuasive.\nCo-workers A: Yes, I think it's important to back up your claims with facts and figures. It helps to convince the judge or the audience that you're right.\nCo-workers B: Speaking of convincing people, have you ever been in a physical altercation before?\nCo-workers A: Yes, unfortunately. But that doesn't mean I'm a danger to people. I just don't back down from a fight when I'm standing up for what's right.\nCo-workers B: That's understandable. Speaking of standing up for what's right, do you remember when you asked Karen for money and she was hesitant at first?\nCo-workers A: Yeah, I remember. But she eventually gave me the cash, and I was able to take care of what I needed to.\nCo-workers B: That's good. And speaking of taking care of things, your carpentry skills are amazing. I loved the house you built for me last year.\nCo-workers A: Thanks! I really love building houses. It's a great feeling to take a blueprint and turn it into someone's dream home.\nCo-workers B: You're a true professional. Speaking of professional skills, your speech at the rally really moved the crowd. You have a great way with words.",
+        "memory_text": "1. Co-worker B commends Co-worker A for having the courage to stand up and defend their beliefs.\n2. Co-worker A is a skilled builder who recently completed building a house for Co-worker B.\n3. Co-worker A has been collecting evidence for a case and is confident in the strength of their argument.\n4. Co-worker A's evidence includes statistics and personal accounts from clients.\n5. Co-worker A plans to present the evidence clearly and persuasively in court.\n6. Co-worker A has experience dealing with challenging clients and emphasizes the importance of communication and setting expectations.",
+        "speaker": "Co-workers A",
+        "raw_prediction": "Thank you so much for the kind words. I always strive to connect with people through my speeches and make a meaningful impact.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e31-s5-t3",
+        "current_dialogue": "Classmates A: , I wanted to share something with you. I helped out a neighbor in need over the weekend.\nClassmates B: That's really kind of you. What did you do to help?\nClassmates A: She was moving and needed some extra hands to pack up her things and load them onto a truck. So I spent most of the day helping her out.",
+        "memory_text": "1. Classmates B has been supportive and helpful to Classmates A.\n2. Classmates A appreciates Classmates B's efforts and support.\n3. Classmates B handled a previous mix-up with the class schedule well, showing responsibility and reliability.\n4. Classmates A appreciates the support and friendship of Classmates B.\n5. Classmates A and B are making plans to spend time together outside of school.\n6. Classmates A and B started as acquaintances and have developed a strong friendship.",
+        "speaker": "Classmates B",
+        "raw_prediction": "That's so thoughtful of you to lend a hand like that. Your kindness never fails to impress me.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e32-s5-t2",
+        "current_dialogue": "Husband: Hey, Wife, I've been thinking that we should spend more time together. How about we go on a weekend getaway?\nWife: That sounds great, husband! Where do you want to go?",
+        "memory_text": "1. The wife supports the husband's goals but wanted to be involved in them.\n2. The husband has long-awaited plans and is finally taking action on them.\n3. The husband is inspired by his wife to take action on his dreams and goals.\n4. The husband got impatient and excited about his plans, leading him to leave without the wife.\n5. The wife offers her support and encouragement to the husband in his journey towards achieving his dreams.\n6. The husband apologized and promised to involve the wife in his plans in the future.",
+        "speaker": "Husband",
+        "raw_prediction": "I was thinking of going to that cozy cabin in the mountains that you've always wanted to visit.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e32-s5-t4",
+        "current_dialogue": "Husband: Hey, Wife, I've been thinking that we should spend more time together. How about we go on a weekend getaway?\nWife: That sounds great, husband! Where do you want to go?\nHusband: Well, I was thinking of renting a cabin in the woods, away from all the hustle and bustle of the city.\nWife: Oh, that sounds like a perfect idea! It will be nice to have some peace and quiet for a change.",
+        "memory_text": "1. The husband has long-awaited plans and is finally taking action on them.\n2. The husband got impatient and excited about his plans, leading him to leave without the wife.\n3. The wife supports the husband's goals but wanted to be involved in them.\n4. The wife offers her support and encouragement to the husband in his journey towards achieving his dreams.\n5. The husband is inspired by his wife to take action on his dreams and goals.\n6. The husband apologized and promised to involve the wife in his plans in the future.",
+        "speaker": "Husband",
+        "raw_prediction": "I'm glad you think so! I really want us to have some quality time together. Let's make this weekend getaway something special for both of us.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e33-s5-t4",
+        "current_dialogue": "Classmates A: Why is your face so red and splotchy, Classmates B? Did you get sunburned?\nClassmates B: No, I didn't get sunburned. I'm just feeling a bit embarrassed.\nClassmates A: Embarrassed? Why?\nClassmates B: It's nothing, really. Just something embarrassing happened to me earlier.",
+        "memory_text": "1. Classmates A expresses gratitude for Classmates B's support during the difficult situation.\n2. Classmates B praised Classmates A for their resilience and quick thinking during a scary experience in space.\n3. Classmates A is stranded in space, running out of oxygen and feeling lightheaded.\n4. Classmate B admires Classmate A's attitude and sees it as a good example for others.\n5. Classmates A helped Classmates B out of friendship and believes in supporting each other.\n6. Classmate B acknowledges Classmate A's success in their career due to their determination and refusal to settle for mediocrity.",
+        "speaker": "Classmates A",
+        "raw_prediction": "It's okay, we all have those moments. If you want to talk about it, I'm here to listen.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e33-s5-t5",
+        "current_dialogue": "Classmates A: Why is your face so red and splotchy, Classmates B? Did you get sunburned?\nClassmates B: No, I didn't get sunburned. I'm just feeling a bit embarrassed.\nClassmates A: Embarrassed? Why?\nClassmates B: It's nothing, really. Just something embarrassing happened to me earlier.\nClassmates A: Come on, tell me! I won't judge you, I promise.",
+        "memory_text": "1. Classmates A expresses gratitude for Classmates B's support during the difficult situation.\n2. Classmate B admires Classmate A's attitude and sees it as a good example for others.\n3. Classmates B praised Classmates A for their resilience and quick thinking during a scary experience in space.\n4. Classmates A helped Classmates B out of friendship and believes in supporting each other.\n5. Classmates A is stranded in space, running out of oxygen and feeling lightheaded.\n6. Classmate A believes in doing their best at everything to avoid regrets later.",
+        "speaker": "Classmates B",
+        "raw_prediction": "Well, it's just that I completely froze during that emergency drill earlier. I couldn't think straight and panicked. It made me realize how important it is to stay calm and think clearly in difficult situations, like you did when we were stranded in space. You handled it so well, and it's something I really admire about you.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e33-s5-t6",
+        "current_dialogue": "Classmates A: Why is your face so red and splotchy, Classmates B? Did you get sunburned?\nClassmates B: No, I didn't get sunburned. I'm just feeling a bit embarrassed.\nClassmates A: Embarrassed? Why?\nClassmates B: It's nothing, really. Just something embarrassing happened to me earlier.\nClassmates A: Come on, tell me! I won't judge you, I promise.\nClassmates B: Well, I accidentally spilled my lunch all over myself in front of some people.",
+        "memory_text": "1. Classmates A expresses gratitude for Classmates B's support during the difficult situation.\n2. Classmates B praised Classmates A for their resilience and quick thinking during a scary experience in space.\n3. Classmates A helped Classmates B out of friendship and believes in supporting each other.\n4. Classmate B admires Classmate A's attitude and sees it as a good example for others.\n5. Classmates A is stranded in space, running out of oxygen and feeling lightheaded.\n6. Classmates A mentioned that life is full of surprises and anything is possible.",
+        "speaker": "Classmates A",
+        "raw_prediction": "Oh no, that does sound embarrassing! But hey, don't worry about it. We all have those moments. Remember when I accidentally hit the emergency release button in the space shuttle? Talk about embarrassing!",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e33-s5-t8",
+        "current_dialogue": "Classmates A: Why is your face so red and splotchy, Classmates B? Did you get sunburned?\nClassmates B: No, I didn't get sunburned. I'm just feeling a bit embarrassed.\nClassmates A: Embarrassed? Why?\nClassmates B: It's nothing, really. Just something embarrassing happened to me earlier.\nClassmates A: Come on, tell me! I won't judge you, I promise.\nClassmates B: Well, I accidentally spilled my lunch all over myself in front of some people.\nClassmates A: (laughs) That's it? That's why you're embarrassed? I thought it was something serious.\nClassmates B: (sighs) Yeah, it's silly. But still embarrassing.",
+        "memory_text": "1. Classmates A expresses gratitude for Classmates B's support during the difficult situation.\n2. Classmates B praised Classmates A for their resilience and quick thinking during a scary experience in space.\n3. Classmates A helped Classmates B out of friendship and believes in supporting each other.\n4. Classmate B admires Classmate A's attitude and sees it as a good example for others.\n5. Classmates A is stranded in space, running out of oxygen and feeling lightheaded.\n6. Classmates A mentioned that life is full of surprises and anything is possible.",
+        "speaker": "Classmates A",
+        "raw_prediction": "Don't worry, Classmates B. We all have those moments. It's all part of life's surprises, right? Just remember, anything is possible, including spilling lunch all over yourself. Just laugh it off.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e33-s5-t11",
+        "current_dialogue": "Classmates A: Why is your face so red and splotchy, Classmates B? Did you get sunburned?\nClassmates B: No, I didn't get sunburned. I'm just feeling a bit embarrassed.\nClassmates A: Embarrassed? Why?\nClassmates B: It's nothing, really. Just something embarrassing happened to me earlier.\nClassmates A: Come on, tell me! I won't judge you, I promise.\nClassmates B: Well, I accidentally spilled my lunch all over myself in front of some people.\nClassmates A: (laughs) That's it? That's why you're embarrassed? I thought it was something serious.\nClassmates B: (sighs) Yeah, it's silly. But still embarrassing.\nClassmates A: Don't worry about it. It happens to everyone. Remember the time I tripped and fell in front of the whole class during our presentation?\nClassmates B: Oh yeah, that was pretty bad. But you handled it so well. You just got up, dusted yourself off, and continued with the presentation.\nClassmates A: Exactly! That's what you should do too. Own up to it and move on. Don't let it bother you.",
+        "memory_text": "1. Classmates A expresses gratitude for Classmates B's support during the difficult situation.\n2. Classmates B praised Classmates A for their resilience and quick thinking during a scary experience in space.\n3. Classmate B admires Classmate A's attitude and sees it as a good example for others.\n4. Classmates A helped Classmates B out of friendship and believes in supporting each other.\n5. Classmate A believes in doing their best at everything to avoid regrets later.\n6. Classmate B acknowledges Classmate A's success in their career due to their determination and refusal to settle for mediocrity.",
+        "speaker": "Classmates B",
+        "raw_prediction": "You're right. I'll try to remember your attitude and not let this embarrassing moment affect me too much. Thanks for always being so supportive.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e34-s5-t3",
+        "current_dialogue": "Neighbors A: I'm really excited about finding a buyer for my product. I think it has a lot of potential.\nNeighbors B: That's great to hear, what kind of product is it?\nNeighbors A: It's a new type of workout equipment that's designed to be more efficient than traditional equipment. I've been working on it for months now and I really think it's going to take off.",
+        "memory_text": "1. Neighbors B is supportive of Neighbors A's efforts to change and become a better version of themselves.\n2. Neighbors B expresses a desire for Neighbors A to succeed and emphasizes the importance of treating others with respect and putting in effort at work.\n3. Neighbors A is trying to improve their behavior at work and be a better colleague.\n4. Neighbors A and Neighbors B have a friendly and supportive relationship, as they enjoy having coffee and chatting together.\n5. Neighbors A acknowledges the need to work harder, be nicer to colleagues, and improve their behavior.\n6. Neighbors A is having issues at work, such as not pulling their weight and being rude to colleagues.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "I'm so proud of you for putting in the effort and dedication to create something innovative like that. Your hard work is definitely going to pay off.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e35-s5-t3",
+        "current_dialogue": "Co-workers A: I feel so grateful to have a boss who is always so supportive of me.\nCo-workers B: That's amazing to hear. Having a supportive boss can make all the difference in how you feel about your job.\nCo-workers A: Definitely. It makes me feel secure in my position and motivated to do my best work.",
+        "memory_text": "1. Co-worker A is grateful for life experiences and is open to new possibilities in the future.\n2. Both Co-worker A and Co-worker B feel that their collaboration brought out the best in each other during the shoot.\n3. Co-worker A felt remorse for what they did and appreciated Co-worker B's understanding.\n4. Co-worker B emphasized the importance of learning from mistakes and working together as a team.\n5. Co-worker A has grown as a person and as an artist, learning about empathy and compassion.\n6. Co-worker A and Co-worker B are excited about working on future projects together and even starting their own production company someday.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "I'm glad to hear that. It's great to see how your positive attitude and hard work have paid off.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e35-s5-t7",
+        "current_dialogue": "Co-workers A: I feel so grateful to have a boss who is always so supportive of me.\nCo-workers B: That's amazing to hear. Having a supportive boss can make all the difference in how you feel about your job.\nCo-workers A: Definitely. It makes me feel secure in my position and motivated to do my best work.\nCo-workers B: It's great to have that kind of positive reinforcement. Do you remember when we were working on that movie together and you were feeling really frustrated?\nCo-workers A: Oh yeah, I remember. I was so angry after blowing up that rabbit with the dynamite. But talking it out with you really helped me work through my emotions.\nCo-workers B: That's right. It's important to have someone to talk to when you're feeling overwhelmed or upset.\nCo-workers A: And speaking of talking it out, do you remember when I was a kid and I ran to our parents screaming because of that spider?",
+        "memory_text": "1. Both Co-worker A and Co-worker B feel that their collaboration brought out the best in each other during the shoot.\n2. Co-worker A felt remorse for what they did and appreciated Co-worker B's understanding.\n3. Co-worker B acknowledges that some people have fears and suggests finding healthy ways to deal with frustrations.\n4. Co-worker A and Co-worker B met on a movie set and are now good friends.\n5. Co-worker B encourages Co-worker A to try relaxation techniques or find a hobby to de-stress and overcome fears.\n6. Co-worker B emphasized the importance of learning from mistakes and working together as a team.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "Yes, I remember that! It's normal to have fears, especially as a child. We all have things that scare us. It's important to find healthy ways to deal with those fears, like relaxation techniques or finding a hobby to focus on. And hey, look at us now - working together and overcoming challenges as a team.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e37-s5-t1",
+        "current_dialogue": "Neighbors A: It's great to have friends who can help each other out, isn't it?",
+        "memory_text": "1. Neighbors A thanked Neighbors B for the suggestion.\n2. Neighbors A bought a necklace from Neighbors B's shop and loves it.\n3. Neighbors B offered to help Neighbors A with the apology process.\n4. Neighbors A was looking for a new necklace and stumbled upon Neighbors B's shop.\n5. Neighbors A struggled with apologizing and admitting when they are wrong.\n6. Both neighbors express the difficulty of not being able to adopt all the animals they see but appreciate those who do adopt and give them loving homes.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "Absolutely, it really is. I'm always here for you whenever you need help or advice.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e37-s5-t6",
+        "current_dialogue": "Neighbors A: It's great to have friends who can help each other out, isn't it?\nNeighbors B: Absolutely. It's a two-way street, and it's important to be there for each other.\nNeighbors A: I remember when I helped you move last year, and then you watched my cat when I went on vacation.\nNeighbors B: Yes, and I appreciate it so much. It's always nice to have someone you can count on.\nNeighbors A: That's true. And speaking of which, I'm helping another friend move next weekend. It'll be a big job, but I know they'd do the same for me.\nNeighbors B: That's great. And if you need any help, just let me know.",
+        "memory_text": "1. Neighbors A thanked Neighbors B for the suggestion.\n2. Neighbors B offered to help Neighbors A with the apology process.\n3. Neighbors A bought a necklace from Neighbors B's shop and loves it.\n4. Neighbors B emphasized the importance of apologizing to show care for the relationship.\n5. Both neighbors express the difficulty of not being able to adopt all the animals they see but appreciate those who do adopt and give them loving homes.\n6. Neighbors A was looking for a new necklace and stumbled upon Neighbors B's shop.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "Thanks, I really appreciate that. It's good to know I have someone I can rely on if I need it.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e38-s5-t1",
+        "current_dialogue": "Classmates A: , I wanted to talk to you about something.",
+        "memory_text": "1. Classmates A and B are students in the same class.\n2. Classmates A was worried about a situation but it turned out to be not a big deal.\n3. Classmates A offered help and support to Classmates B.\n4. Classmates A invited Classmates B to join the study group together for extra support and studying.\n5. Classmates A and B are close and have a level of trust between them.\n6. Classmates A discovered a secret that Classmates B has been keeping.",
+        "speaker": "Classmates A",
+        "raw_prediction": "Sure, what's on your mind?",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e38-s5-t7",
+        "current_dialogue": "Classmates A: , I wanted to talk to you about something.\nClassmates B: Sure, what's on your mind?\nClassmates A: Well, it\u2019s been on my mind for a while now and I couldn\u2019t shake it off. I just can't stop thinking about you.\nClassmates B: Oh, really?\nClassmates A: Yes, really. I know we've been friends for a while now, but I feel like there may be something more between us.\nClassmates B: Hmm, I never thought about it that way. But I can\u2019t deny that we have a great connection.\nClassmates A: Exactly! I just feel like we could be more than just friends. If it's something you're open to, of course.",
+        "memory_text": "1. Classmates A and B are close and have a level of trust between them.\n2. Classmates A tends to overthink things and appreciated Classmates B's support and advice.\n3. Classmates A discovered a secret that Classmates B has been keeping.\n4. Classmates A and B are students in the same class.\n5. Classmates A and B have had a previous positive interaction in a coffee shop where Classmates A rubbed Classmates B's neck, providing relaxation.\n6. Classmate A recalls a moment where they admired Classmate B's courage and strength in sharing a secret, showing their supportive and compassionate nature.",
+        "speaker": "Classmates B",
+        "raw_prediction": "I really appreciate your honesty and courage in bringing this up. I value our friendship a lot, and I think it\u2019s important for us to have an open and honest conversation about this. Let\u2019s take some time to think about it and discuss it further.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e38-s5-t10",
+        "current_dialogue": "Classmates A: , I wanted to talk to you about something.\nClassmates B: Sure, what's on your mind?\nClassmates A: Well, it\u2019s been on my mind for a while now and I couldn\u2019t shake it off. I just can't stop thinking about you.\nClassmates B: Oh, really?\nClassmates A: Yes, really. I know we've been friends for a while now, but I feel like there may be something more between us.\nClassmates B: Hmm, I never thought about it that way. But I can\u2019t deny that we have a great connection.\nClassmates A: Exactly! I just feel like we could be more than just friends. If it's something you're open to, of course.\nClassmates B: I get what you\u2019re saying,. And to be honest, I\u2019ve had similar thoughts lately. I\u2019m definitely open to exploring this.\nClassmates A: I\u2019m so relieved to hear that. I was worried that I might be crossing a line by expressing my feelings.\nClassmates B: No, not at all. I\u2019m glad you did. It takes courage to express your true feelings. ",
+        "memory_text": "1. Classmates A tends to overthink things and appreciated Classmates B's support and advice.\n2. Classmate A recalls a moment where they admired Classmate B's courage and strength in sharing a secret, showing their supportive and compassionate nature.\n3. Classmates B feels relieved to have someone to confide in about the secret.\n4. Classmates A and B are close and have a level of trust between them.\n5. Classmates A and B have had a previous positive interaction in a coffee shop where Classmates A rubbed Classmates B's neck, providing relaxation.\n6. Classmates A and B are supportive friends who look out for each other during stressful times.",
+        "speaker": "Classmates A",
+        "raw_prediction": "I'm glad we're on the same page about this. It means a lot to me that we can be open and honest with each other.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e39-s5-t1",
+        "current_dialogue": "Neighbors A: I just got back from my trip to South America. It was amazing!",
+        "memory_text": "1. Neighbors A saw George at the store and exchanged waves.\n2. Neighbors B remembers the incident.\n3. Neighbors A taught the kid the special move and the kid was relieved.\n4. Neighbors B admires Neighbors A's organization skills and wishes to improve their own organization.\n5. Neighbors A and B both took a cooking class together last year.\n6. Neighbors A is very organized in their room and house and never wastes time searching for things.",
+        "speaker": "Neighbors A",
+        "raw_prediction": "Wow, that sounds incredible! I remember you mentioning how organized you were when we took that cooking class together. I really need to work on my organization skills too.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e40-s5-t6",
+        "current_dialogue": "Classmates A: I've been really focusing on studying algebra lately.\nClassmates B: Why is that?\nClassmates A: I want to be smart and I think algebra can help me think more logically and critically.\nClassmates B: That's a good goal to have. Have you noticed any improvements in your thinking since studying algebra?\nClassmates A: Definitely. I feel like I'm able to break down problems and analyze them more effectively.\nClassmates B: It's always rewarding when hard work pays off.",
+        "memory_text": "1. Classmates A is always looking to challenge themselves and improve their skills.\n2. Classmates B acknowledges Classmates A's determination and competitiveness.\n3. Classmates A faced tough competition in middle school from a fast girl, motivating them to improve.\n4. Classmates A is struggling with feeling competitive and the need to be the best at everything.\n5. Classmates B emphasizes the importance of enjoying the journey and effort put in, not just focusing on winning.\n6. Classmates B is supportive and emphasizes the importance of having someone to talk to about personal matters.",
+        "speaker": "Classmates A",
+        "raw_prediction": "It really is. I'm just trying to make sure I don't get too caught up in trying to be the best all the time. I want to enjoy the process too.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e41-s5-t5",
+        "current_dialogue": "Classmates A: I just finished my computer course, and I learned so much about using computers effectively.\nClassmates B: That's great! What did you learn specifically?\nClassmates A: Oh, a lot of things. I learned how to use different programs and software for different tasks, and how to choose the right one depending on what I need to do.\nClassmates B: Do you have any software recommendations for me? I always struggle with choosing the right program.\nClassmates A: It really depends on what you need the software for. But for basic tasks like word processing or spreadsheet management, I would recommend Microsoft Office. It's user-friendly and versatile.",
+        "memory_text": "1. Classmates A and Classmates B are friends who help each other with schoolwork.\n2. Classmate B is a supportive friend who listens and offers to help.\n3. Classmate A appreciates having friends who are there for them during difficult times.\n4. Classmates B supported Classmates A through a tough time by listening to them.\n5. Classmates B and Classmates A used to dance a lot in middle school.\n6. Classmates A has matured since then and learned from past mistakes.",
+        "speaker": "Classmates B",
+        "raw_prediction": "Thank you for the recommendation! I'll definitely look into using Microsoft Office for those basic tasks. I appreciate your help and guidance.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e41-s5-t7",
+        "current_dialogue": "Classmates A: I just finished my computer course, and I learned so much about using computers effectively.\nClassmates B: That's great! What did you learn specifically?\nClassmates A: Oh, a lot of things. I learned how to use different programs and software for different tasks, and how to choose the right one depending on what I need to do.\nClassmates B: Do you have any software recommendations for me? I always struggle with choosing the right program.\nClassmates A: It really depends on what you need the software for. But for basic tasks like word processing or spreadsheet management, I would recommend Microsoft Office. It's user-friendly and versatile.\nClassmates B: Thanks, I'll keep that in mind. Did you learn anything else in the course?\nClassmates A: Yeah, I also learned some basic coding languages like HTML and CSS. It was challenging but really interesting.",
+        "memory_text": "1. Classmates A and Classmates B are friends who help each other with schoolwork.\n2. Classmate B is a supportive friend who listens and offers to help.\n3. Classmates B supported Classmates A through a tough time by listening to them.\n4. Classmates A has matured since then and learned from past mistakes.\n5. Classmates B and Classmates A used to dance a lot in middle school.\n6. Classmates A is considering taking a dance class for fun.",
+        "speaker": "Classmates B",
+        "raw_prediction": "That sounds really cool! I've always been interested in coding but never knew where to start. Maybe I'll look into taking a course too. Thanks for the recommendation on Microsoft Office, I'll definitely check it out.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e42-s5-t11",
+        "current_dialogue": "Co-workers A: Hi there, I was wondering if you'd like to join me for lunch on Tuesday at the school cafeteria.\nCo-workers B: Oh, sure. Thanks for the invitation. What time were you thinking?\nCo-workers A: Noon works for me. Is that okay with you?\nCo-workers B: Yeah, that works for me. Thanks for asking me to join you.\nCo-workers A: No problem, it'll be great to catch up. Hey, do you remember when we talked about me being irresponsible a few years ago?\nCo-workers B: Yeah, I remember that conversation. What about it?\nCo-workers A: Well, I wanted to share some good news with you. I've been recently promoted to the night shift and have been doing a great job. I think I've come a long way since those days.\nCo-workers B: That's awesome, congratulations! I'm proud of you and all the hard work you've put in. You've definitely grown and matured in the workplace.\nCo-workers A: Thank you, I appreciate that. But I have to admit, I'm still a bit nervous about being wrong. Remember when we talked about my constantly questioning myself and second-guessing my decisions?\nCo-workers B: Yeah, I remember that. Is there anything specific that's been bothering you?\nCo-workers A: Not really, it's just a general feeling of uncertainty at times. But hey, speaking of uncertainty, do you remember when we talked about my love for singing a while ago?",
+        "memory_text": "1. Co-worker B reassures Co-worker A and encourages them to have more confidence.\n2. Co-worker A expresses nervousness and self-doubt despite their achievements.\n3. Co-worker B reminds Co-worker A of their progress and potential for success.\n4. Co-worker B has moved on from their arrest and appreciates Co-worker A's concern and change in behavior.\n5. Co-worker A is nervous about making mistakes in their new position.\n6. Co-worker B is supportive and encouraging towards Co-worker A.",
+        "speaker": "Co-workers B",
+        "raw_prediction": "Yes, I remember that conversation about your passion for singing. It's great to see you pursuing your interests outside of work. I'm sure your talent and dedication will shine through, just like they have in your career growth. Keep pushing yourself and don't be afraid to make mistakes along the way. You've got this!",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e45-s5-t3",
+        "current_dialogue": "Classmates A: I can't believe I got caught cheating on my taxes. This is such a mess.\nClassmates B: Wait, what? You cheated on your taxes? That's not okay.\nClassmates A: I know, I know. I was just really struggling financially and I thought I could get away with it.",
+        "memory_text": "1. Classmate B reassures Classmate A that they are all in it together and offers help if needed.\n2. Classmate A appreciates the support and understanding from Classmate B.\n3. Classmates B advises Classmates A to stay focused on their goal, believe in themselves, and ask for help if needed.\n4. Classmates B encourages Classmates A to keep pushing themselves and not let doubts hold them back.\n5. Classmate A has tried practicing in front of others but still feels nervous.\n6. Classmate B brought goods to Classmate A's house and is supportive of their basketball dream.",
+        "speaker": "Classmates B",
+        "raw_prediction": "I understand that you were in a tough spot, but cheating is never the solution. Let's figure out how to fix this mess together.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e46-s5-t2",
+        "current_dialogue": "Classmates A: Hey, check out this spot I found to camp out for the night. It's perfect!\nClassmates B: Wow, this view is amazing!",
+        "memory_text": "1. Classmate A and Classmate B are classmates who attended a party together.\n2. Classmates B finds Classmates A's involvement in the community admirable and important.\n3. Classmates B remembers Classmates A's previous involvement in community improvement projects and acknowledges their passion for making a difference.\n4. Classmate A expresses a desire to find alternative ways to have fun and make a positive impact in the community.\n5. Classmate B agrees to keep the party a secret in exchange for Classmate A doing their homework for a week.\n6. Classmates A is proactive and curious, taking the initiative to research topics of interest.",
+        "speaker": "Classmates A",
+        "raw_prediction": "I'm glad you like it! I think it's important to take some time to unwind and enjoy nature every once in a while.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e46-s5-t3",
+        "current_dialogue": "Classmates A: Hey, check out this spot I found to camp out for the night. It's perfect!\nClassmates B: Wow, this view is amazing!\nClassmates A: I know, right? And it's completely level and free of any debris. We won't have to worry about rolling off our sleeping pads or anything like that.",
+        "memory_text": "1. Classmates B finds Classmates A's involvement in the community admirable and important.\n2. Classmate A and Classmate B are classmates who attended a party together.\n3. Classmate A expresses a desire to find alternative ways to have fun and make a positive impact in the community.\n4. Classmates B remembers Classmates A's previous involvement in community improvement projects and acknowledges their passion for making a difference.\n5. Classmate A is concerned about the party being discovered and getting in trouble with the school.\n6. Classmate A agrees to take better care of themselves in the future.",
+        "speaker": "Classmates B",
+        "raw_prediction": "Yeah, this spot is really ideal for camping. I'm glad you found it. It's so peaceful here. And hey, I remember how passionate you are about finding ways to make a positive impact in the community. That's really admirable.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e46-s5-t7",
+        "current_dialogue": "Classmates A: Hey, check out this spot I found to camp out for the night. It's perfect!\nClassmates B: Wow, this view is amazing!\nClassmates A: I know, right? And it's completely level and free of any debris. We won't have to worry about rolling off our sleeping pads or anything like that.\nClassmates B: It definitely looks like a great spot to spend the night. How did you manage to find it?\nClassmates A: Just a stroke of luck, I guess. I was exploring the area and stumbled upon it. It's always good to be a little adventurous and explore new places, you never know what you might find.\nClassmates B: That's true. You always seem to find the best spots. Like that time we went camping near the lake and had the whole place to ourselves.\nClassmates A: Oh yeah, that was a great spot too. It's always fun to explore and go on new adventures.",
+        "memory_text": "1. Classmate A expresses a desire to find alternative ways to have fun and make a positive impact in the community.\n2. Classmates B finds Classmates A's involvement in the community admirable and important.\n3. Classmates A is proactive and curious, taking the initiative to research topics of interest.\n4. Classmates B remembers Classmates A's previous involvement in community improvement projects and acknowledges their passion for making a difference.\n5. Classmate A and Classmate B are classmates who attended a party together.\n6. Classmates A hopes to encourage others to get involved and create a ripple effect for positive change.",
+        "speaker": "Classmates B",
+        "raw_prediction": "You have such a knack for discovering hidden gems. Your adventurous spirit always leads us to the best places.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e47-s5-t3",
+        "current_dialogue": "Classmates A: Hey, how are you feeling today?\nClassmates B: I'm feeling frustrated. I wish I could do things on my own.\nClassmates A: I understand how you feel. It can be tough when you feel like you're dependent on others.",
+        "memory_text": "1. Classmates A and B have a friendly and supportive relationship, as evidenced by their conversation about their respective experiences.\n2. Classmates A and B are both keeping up with the homework in their math class.\n3. Classmates A enjoys reminiscing about childhood memories, particularly about playing on swings and making music with friends.\n4. Classmates B finds it awesome that Classmates A is pursuing their passion for music after a conversation they had about following dreams.\n5. Classmates A finds pursuing music rewarding and is passionate about it.\n6. Classmates B is interested in learning to play an instrument.",
+        "speaker": "Classmates B",
+        "raw_prediction": "Thanks for understanding. I'm really inspired by your passion for music. It's cool to see someone pursuing their dreams like that.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e47-s5-t9",
+        "current_dialogue": "Classmates A: Hey, how are you feeling today?\nClassmates B: I'm feeling frustrated. I wish I could do things on my own.\nClassmates A: I understand how you feel. It can be tough when you feel like you're dependent on others.\nClassmates B: Yeah, exactly. I don't want to be a burden on anyone.\nClassmates A: You're not a burden, don't worry. And I'm always here to help you out.\nClassmates B: I appreciate that, but I don't want to always rely on others. I want to be more independent.\nClassmates A: I get it. Maybe there are some small things you can do on your own to start feeling more independent?\nClassmates B: Like what?\nClassmates A: Well, maybe you can start by making a list of things you'd like to do on your own and we can work on achieving those goals together.",
+        "memory_text": "1. Classmates A and B have a friendly and supportive relationship, as evidenced by their conversation about their respective experiences.\n2. Classmates B finds it awesome that Classmates A is pursuing their passion for music after a conversation they had about following dreams.\n3. Classmates A enjoys reminiscing about childhood memories, particularly about playing on swings and making music with friends.\n4. Classmates B is interested in learning to play an instrument.\n5. Classmates A and B enjoy jamming together and plan to collaborate on music in the future.\n6. Classmates A and B are both keeping up with the homework in their math class.",
+        "speaker": "Classmates B",
+        "raw_prediction": "That sounds like a good idea. I appreciate your support in helping me become more independent. Let's work on those goals together.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e47-s5-t13",
+        "current_dialogue": "Classmates A: Hey, how are you feeling today?\nClassmates B: I'm feeling frustrated. I wish I could do things on my own.\nClassmates A: I understand how you feel. It can be tough when you feel like you're dependent on others.\nClassmates B: Yeah, exactly. I don't want to be a burden on anyone.\nClassmates A: You're not a burden, don't worry. And I'm always here to help you out.\nClassmates B: I appreciate that, but I don't want to always rely on others. I want to be more independent.\nClassmates A: I get it. Maybe there are some small things you can do on your own to start feeling more independent?\nClassmates B: Like what?\nClassmates A: Well, maybe you can start by making a list of things you'd like to do on your own and we can work on achieving those goals together.\nClassmates B: That sounds like a good idea. Thanks for understanding, Classmates A.\nClassmates A: Of course, I'm always here to support you. Hey, speaking of goals, remember when we talked about your guitar playing a few months ago? How's that going?\nClassmates B: It's going really well, thanks for asking! I've been practicing every day and I feel like I'm getting better.\nClassmates A: That's awesome! Have you thought about joining a band or playing gigs around town?",
+        "memory_text": "1. Classmates B finds it awesome that Classmates A is pursuing their passion for music after a conversation they had about following dreams.\n2. Classmates A and B have a friendly and supportive relationship, as evidenced by their conversation about their respective experiences.\n3. Classmates A plays the guitar, takes lessons, and plays in a band.\n4. Classmates A and B enjoy jamming together and plan to collaborate on music in the future.\n5. Classmates B is interested in learning to play an instrument.\n6. Classmates A finds pursuing music rewarding and is passionate about it.",
+        "speaker": "Classmates B",
+        "raw_prediction": "I haven't thought about that yet, but it's definitely something I'd like to explore in the future. I'm really enjoying learning to play the guitar and it's been a great way for me to express myself.",
+        "previous_summary": "Classmates A plays the guitar, takes lessons, and plays in a band.\nClassmates B is interested in learning to play an instrument.\nClassmates A started playing the guitar because of a love for music and is working on their first album.\nClassmates A's band mostly plays at local bars and coffee shops.\nClassmates A's band is trying to build up their fan base and play at bigger venues.\nClassmates A and B enjoy jamming together and plan to collaborate on music in the future."
+    },
+    {
+        "utter_id": "e47-s5-t20",
+        "current_dialogue": "Classmates A: Hey, how are you feeling today?\nClassmates B: I'm feeling frustrated. I wish I could do things on my own.\nClassmates A: I understand how you feel. It can be tough when you feel like you're dependent on others.\nClassmates B: Yeah, exactly. I don't want to be a burden on anyone.\nClassmates A: You're not a burden, don't worry. And I'm always here to help you out.\nClassmates B: I appreciate that, but I don't want to always rely on others. I want to be more independent.\nClassmates A: I get it. Maybe there are some small things you can do on your own to start feeling more independent?\nClassmates B: Like what?\nClassmates A: Well, maybe you can start by making a list of things you'd like to do on your own and we can work on achieving those goals together.\nClassmates B: That sounds like a good idea. Thanks for understanding, Classmates A.\nClassmates A: Of course, I'm always here to support you. Hey, speaking of goals, remember when we talked about your guitar playing a few months ago? How's that going?\nClassmates B: It's going really well, thanks for asking! I've been practicing every day and I feel like I'm getting better.\nClassmates A: That's awesome! Have you thought about joining a band or playing gigs around town?\nClassmates B: Not really, I'm still a bit nervous about performing in front of people.\nClassmates A: I get it, performing can be scary. But maybe in a few months, we can work on setting a goal for you to do a small performance somewhere.\nClassmates B: That sounds like a challenge, but also kind of exciting. I'm in!\nClassmates A: Great, I'm looking forward to seeing you rock out on stage. Hey, remember when we talked about your new car a few hours ago? How's that going?\nClassmates B: I'm loving it! It's so much fun to drive. Thanks for asking, Classmates A.\nClassmates A: No problem, glad to hear it. Hey, I remember a few months ago when you talked about being reminded of your childhood and feeling emotional. How are you feeling about that now?\nClassmates B: I'm still feeling a bit emotional about it, but I've also been trying to focus on making new positive memories to replace the old ones.",
+        "memory_text": "1. Classmates B finds it awesome that Classmates A is pursuing their passion for music after a conversation they had about following dreams.\n2. Classmates A and B have a friendly and supportive relationship, as evidenced by their conversation about their respective experiences.\n3. Classmates A enjoys reminiscing about childhood memories, particularly about playing on swings and making music with friends.\n4. Classmates A finds pursuing music rewarding and is passionate about it.\n5. Classmates A plays the guitar, takes lessons, and plays in a band.\n6. Classmates A and B enjoy jamming together and plan to collaborate on music in the future.",
+        "speaker": "Classmates A",
+        "raw_prediction": "That's a great approach, focusing on creating new positive memories is important for healing. Just know that I'm here to support you through it all.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e48-s5-t5",
+        "current_dialogue": "Neighbors A: Ugh, I need to finish this project before the deadline, but I just can't seem to focus.\nNeighbors B: Sounds like a case of procrastination.\nNeighbors A: Yeah, I always find a way to put things off.\nNeighbors B: Have you tried setting specific goals or breaking down the project into smaller tasks?\nNeighbors A: I have, but then I get sidetracked with something else.",
+        "memory_text": "1. Neighbor A enjoys building houses and finishing them quickly.\n2. Neighbor A considers using their skills for good instead of evil after Neighbor B's reminder.\n3. Neighbor B reminds Neighbor A of their potential to do good things, referencing a house that Neighbor A built for them.\n4. Neighbor A started construction on the house last week and plans to finish it in record time.\n5. Neighbor A has skills in manipulation and getting what they want.\n6. Neighbors A helped Neighbors B build a new house with amazing features.",
+        "speaker": "Neighbors B",
+        "raw_prediction": "Maybe try setting a timer for each task to keep yourself on track. You have the skills to get things done efficiently, just like when you helped me build that amazing house.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e49-s5-t1",
+        "current_dialogue": "Husband: I'm feeling stuck with my writing. I've been searching everywhere for new ideas, but nothing seems to work.",
+        "memory_text": "1. Wife suggests that husband should try using more modern language to be better understood.\n2. Wife brings up Sarah, the husband's previous partner, but husband says he hasn't thought about her much.\n3. The husband is open to learning more about movies, showing a willingness to try again.\n4. Husband agrees to try adapting to modern language for better communication with his wife.\n5. Both the husband and wife express a desire for happiness and understanding in the situation.\n6. The husband claims to have a real connection with Sarah and wants to find a way to move forward while still considering his current marriage.",
+        "speaker": "Wife",
+        "raw_prediction": "Maybe you could try exploring different genres or writing styles to spark some inspiration. Remember, sometimes stepping out of your comfort zone can lead to great creativity.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e49-s5-t3",
+        "current_dialogue": "Husband: I'm feeling stuck with my writing. I've been searching everywhere for new ideas, but nothing seems to work.\nWife: Have you tried brainstorming with me? Sometimes bouncing ideas off of someone else can help.\nHusband: I have, but I don't want to bother you too much with my writing stuff.",
+        "memory_text": "1. Wife brings up Sarah, the husband's previous partner, but husband says he hasn't thought about her much.\n2. Wife suggests that husband should try using more modern language to be better understood.\n3. Both the husband and wife express a desire for happiness and understanding in the situation.\n4. The wife compares the situation to when the husband fell asleep during a movie she recommended, indicating past issues in their relationship.\n5. The husband is open to learning more about movies, showing a willingness to try again.\n6. The wife is knowledgeable about movies and is willing to share her passion with the husband.",
+        "speaker": "Wife",
+        "raw_prediction": "It wouldn't be a bother at all! I enjoy helping you with your writing and brainstorming together could bring some fresh perspectives. Let's give it a try.",
+        "previous_summary": null
+    },
+    {
+        "utter_id": "e49-s5-t7",
+        "current_dialogue": "Husband: I'm feeling stuck with my writing. I've been searching everywhere for new ideas, but nothing seems to work.\nWife: Have you tried brainstorming with me? Sometimes bouncing ideas off of someone else can help.\nHusband: I have, but I don't want to bother you too much with my writing stuff.\nWife: Nonsense! You can always come to me with anything. Plus, I enjoy helping you with your creative process. Have you also tried revisiting some of the writing prompts we did in our creative writing class?\nHusband: I have, but I feel like I'm just repeating the same stories over and over again.\nWife: Maybe it's time to take a step back and try something new. Have you ever tried writing in a different genre or experimenting with different styles?\nHusband: That's a good idea. I guess I just haven't had the courage to step out of my comfort zone.",
+        "memory_text": "1. Wife suggests that husband should try using more modern language to be better understood.\n2. The husband is open to learning more about movies, showing a willingness to try again.\n3. The wife reassures the husband that it's okay to be different and encourages him to embrace who he is.\n4. Husband agrees to try adapting to modern language for better communication with his wife.\n5. Wife brings up Sarah, the husband's previous partner, but husband says he hasn't thought about her much.\n6. The wife compares the situation to when the husband fell asleep during a movie she recommended, indicating past issues in their relationship.",
+        "speaker": "Wife",
+        "raw_prediction": "It's okay to feel a bit nervous about trying something new, but remember, growth often happens outside of our comfort zones. I believe in you and your writing abilities. You never know, exploring different genres and styles might just spark that creative flame again.",
+        "previous_summary": null
+    }
+]

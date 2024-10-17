@@ -1,0 +1,12 @@
+{
+    "./helpful/msc_h2h_helpful_ret_summary_count.json Theanine wins": 0.6440677966101694,
+    "./helpful/msc_h2h_helpful_ret_summary_count.json tie": 0.0,
+    "./helpful/msc_h2h_helpful_ret_summary_count.json Baseline wins": 0.3559322033898305,
+    "./helpful/cc_h2h_helpful_ret_summary_count.json Theanine wins": 0.7931034482758621,
+    "./helpful/cc_h2h_helpful_ret_summary_count.json tie": 0.0,
+    "./helpful/cc_h2h_helpful_ret_summary_count.json Baseline wins": 0.20689655172413793,
+    "Theanine wins average": 0.719,
+    "Tie average": 0.0,
+    "Baseline wins average": 0.281,
+    "Sum of averages": 1.0
+}

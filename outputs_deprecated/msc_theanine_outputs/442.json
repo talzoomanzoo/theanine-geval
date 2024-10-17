@@ -1,0 +1,10 @@
+{
+    "id": 442,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Speaker B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: I went to another martial arts class and had a blast.\n\n[MEMORY]\nSpeaker A is very active, enjoying martial arts and is planning to take summer courses soon. Speaker A has never been out of the United States and thinks it would be nice to visit England. Speaker B enjoys visiting local restaurants in London. Speaker A is interested in trying new restaurants, mentioning Taco Bell as their favorite.",
+    "utter_id": "e41-s5-t1",
+    "current_dialogue": "Speaker A: I went to another martial arts class and had a blast.",
+    "memory_text": "Speaker A is very active, enjoying martial arts and is planning to take summer courses soon. Speaker A has never been out of the United States and thinks it would be nice to visit England. Speaker B enjoys visiting local restaurants in London. Speaker A is interested in trying new restaurants, mentioning Taco Bell as their favorite.",
+    "speaker": "Speaker B",
+    "raw_prediction": "That's awesome! Trying new things is always exciting.",
+    "prediction": "Brief explanation: The information in MEMORY could be useful for Speaker B to generate a response related to shared interests like martial arts or trying new restaurants, or possibly suggesting a visit to England. However, these topics are not directly addressed in the DIALOGUE CONTEXT. \n\nJudgement: \"No\""
+}

@@ -1,0 +1,10 @@
+{
+    "id": 532,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Speaker B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: A new cat arrived at the shelter. He is very cute, but not cuter than puppies!\nSpeaker B: Why do you like puppies so much?  What's so different about kittens and puppies?  Aren't they just both babies?  \nSpeaker A: Yes but puppies are just so cute with their beady eyes and always wagging their tails and following you everywhere!\n\nMEMORY:\nSpeaker A loves animals, especially puppies, and visits shelters in every city they go to. Speaker B is interested in volunteering and prefers cats over dogs, especially kittens.",
+    "utter_id": "e49-s5-t3",
+    "current_dialogue": "Speaker A: A new cat arrived at the shelter. He is very cute, but not cuter than puppies!\nSpeaker B: Why do you like puppies so much?  What's so different about kittens and puppies?  Aren't they just both babies?  \nSpeaker A: Yes but puppies are just so cute with their beady eyes and always wagging their tails and following you everywhere!",
+    "memory_text": "Speaker A loves animals, especially puppies, and visits shelters in every city they go to. Speaker B is interested in volunteering and prefers cats over dogs, especially kittens.",
+    "speaker": "Speaker B",
+    "raw_prediction": "I guess that's true, puppies do have that adorable and energetic charm about them.",
+    "prediction": "OUTPUT:\nBrief explanation: The MEMORY contains relevant past information about Speaker B's preference for cats over dogs, which could be valuable for generating a response regarding the comparison between kittens and puppies.\nJudgement: Yes"
+}

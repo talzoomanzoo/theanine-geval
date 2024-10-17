@@ -1,0 +1,10 @@
+{
+    "id": 296,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Neighbors A, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nNeighbors A: I marked the boundary line with a pen on the wall so that we can both be clear about where my property ends and your property begins.\n\nMEMORY:\nNeighbor A enjoys reading and sharing books with Neighbor B, which recently led to Neighbors A getting a new job as a secretary at a small marketing agency. This new job eventually caused Neighbors A to be promoted to manager and take on more responsibilities, leading to them feeling overwhelmed and stressed with a lot on their plate.",
+    "utter_id": "e24-s5-t1",
+    "current_dialogue": "Neighbors A: I marked the boundary line with a pen on the wall so that we can both be clear about where my property ends and your property begins.",
+    "memory_text": "Neighbor A enjoys reading and sharing books with Neighbor B, which recently led to Neighbors A getting a new job as a secretary at a small marketing agency. This new job eventually caused Neighbors A to be promoted to manager and take on more responsibilities, leading to them feeling overwhelmed and stressed with a lot on their plate.",
+    "speaker": "Neighbors A",
+    "raw_prediction": "I hope this helps prevent any misunderstandings in the future.",
+    "prediction": "Brief explanation: The MEMORY provided contains information about Neighbor A's personal hobbies and recent job changes, which are unrelated to the property boundary discussion in the DIALOGUE CONTEXT. There is no direct connection or reference in the MEMORY that provides useful insight or context for the current conversation about property lines.\n\nJudgement: \"No\""
+}

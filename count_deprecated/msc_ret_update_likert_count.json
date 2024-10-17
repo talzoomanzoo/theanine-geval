@@ -1,0 +1,10 @@
+{
+    "one_count": 2,
+    "two_count": 59,
+    "three_count": 295,
+    "four_count": 167,
+    "five_count": 7,
+    "na_count": 11,
+    "average_with_na": 3.157116451016636,
+    "average_without_na": 3.2226415094339624
+}

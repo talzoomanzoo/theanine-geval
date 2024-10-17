@@ -1,0 +1,14 @@
+{
+    "helpful_ret_update_mem_count_results.json": {
+        "Theanine wins average": 0.296,
+        "Tie average": 0.041,
+        "Baseline wins average": 0.663,
+        "Sum of averages": 1.0
+    },
+    "helpful_ret_summary_mem_count_results.json": {
+        "Theanine wins average": 0.333,
+        "Tie average": 0.04,
+        "Baseline wins average": 0.627,
+        "Sum of averages": 1.0
+    }
+}

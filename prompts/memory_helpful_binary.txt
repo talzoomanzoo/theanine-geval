@@ -1,0 +1,18 @@
+[Task Description]
+You will be given DIALOGUE CONTEXT and MEMORY.
+You job is to judge if MEMORY contains helpful past information for a language model, representing {speaker}, to generate a proper next response based on DIALOGUE CONTEXT.
+
+Say "Yes" if MEMORY contains such helpful information and say "No" if it dose not.
+Provide a brief explanation for your judgement.
+
+[Format Regulation]
+Generate your output below OUTPUT using the following format:
+Brief explanation: your explanation
+Judgement: "Yes" or "No"
+
+[Task]
+DIALOGUE CONTEXT:
+{current_dialogue}
+
+MEMORY:
+{memory}

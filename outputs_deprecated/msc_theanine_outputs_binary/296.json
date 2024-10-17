@@ -1,0 +1,10 @@
+{
+    "id": 296,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Speaker A, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: Black widow movie was awesome. We enjoy lot and had Brazilian foods.\nSpeaker B: Oh that sounds fun! What is it about?\n\nMEMORY:\nSpeaker B expressed interest in trying healing methods mentioned by Speaker A, who enjoys salsa dancing and is planning to go out dancing. Speaker B enjoys bartending mainly for the fun aspect and the tips they receive, and works as a bartender, enjoying meeting different people.",
+    "utter_id": "e27-s5-t2",
+    "current_dialogue": "Speaker A: Black widow movie was awesome. We enjoy lot and had Brazilian foods.\nSpeaker B: Oh that sounds fun! What is it about?",
+    "memory_text": "Speaker B expressed interest in trying healing methods mentioned by Speaker A, who enjoys salsa dancing and is planning to go out dancing. Speaker B enjoys bartending mainly for the fun aspect and the tips they receive, and works as a bartender, enjoying meeting different people.",
+    "speaker": "Speaker A",
+    "raw_prediction": "It's about Natasha Romanoff's past and how she confronts her demons.",
+    "prediction": "OUTPUT:\nBrief explanation: The MEMORY provided refers to Speaker B's interest in healing methods, salsa dancing, enjoying bartending, and meeting different people. This information does not pertain to the topic of the Black Widow movie or Brazilian foods mentioned in the DIALOGUE CONTEXT. Therefore, it would not assist Speaker A in generating a response about the movie as asked by Speaker B.\nJudgement: \"No\""
+}

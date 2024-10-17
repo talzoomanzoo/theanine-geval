@@ -1,0 +1,12 @@
+{
+    "./helpful/msc_h2h_helpful_comedy_count.json Theanine wins": 0.21052631578947367,
+    "./helpful/msc_h2h_helpful_comedy_count.json tie": 0.0,
+    "./helpful/msc_h2h_helpful_comedy_count.json Baseline wins": 0.7894736842105263,
+    "./helpful/cc_h2h_helpful_comedy_count.json Theanine wins": 0.12280701754385964,
+    "./helpful/cc_h2h_helpful_comedy_count.json tie": 0.0,
+    "./helpful/cc_h2h_helpful_comedy_count.json Baseline wins": 0.8771929824561403,
+    "Theanine wins average": 0.167,
+    "Tie average": 0.0,
+    "Baseline wins average": 0.833,
+    "Sum of averages": 1.0
+}

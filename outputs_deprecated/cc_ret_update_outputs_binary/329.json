@@ -1,0 +1,10 @@
+{
+    "id": 329,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Parent, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nNeighbors B: Not bad, thanks. How about you?\n\nMEMORY:\n1. Neighbors A appreciated the support and friendship of Neighbors B.\n2. Neighbors B is familiar with Neighbors A's dog and looking forward to playing with it again.\n3. Neighbors B expresses concern for Neighbors A's back pain.\n4. Neighbors A is enjoying the different culture and exploring the city.\n5. Neighbor B is interested in chiropractic care after hearing about Neighbor A's positive experience.\n6. Neighbors A mentions having back pain and needing a break.",
+    "utter_id": "e27-s5-t2",
+    "current_dialogue": "Neighbors B: Not bad, thanks. How about you?",
+    "memory_text": "1. Neighbors A appreciated the support and friendship of Neighbors B.\n2. Neighbors B is familiar with Neighbors A's dog and looking forward to playing with it again.\n3. Neighbors B expresses concern for Neighbors A's back pain.\n4. Neighbors A is enjoying the different culture and exploring the city.\n5. Neighbor B is interested in chiropractic care after hearing about Neighbor A's positive experience.\n6. Neighbors A mentions having back pain and needing a break.",
+    "speaker": "Parent",
+    "raw_prediction": "I'm hanging in there. Just taking it easy and trying to give my back a break.",
+    "prediction": "OUTPUT\nBrief explanation: Memory points 3 and 6 mention Neighbor A's back pain, which could be relevant to follow up in the conversation about their current state or well-being.\nJudgement: \"Yes\""
+}

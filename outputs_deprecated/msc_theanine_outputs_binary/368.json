@@ -1,0 +1,10 @@
+{
+    "id": 368,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Speaker B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: Have you decided to get one of my friend's kittens?\n\nMEMORY:\n1. Speaker A enjoys gardening and reading, while Speaker B enjoys visiting the zoo. Speaker B's girlfriend loves pandas and penguins at the zoo and they visit every few weeks. Speaker B's girlfriend has a noisy cockatoo and Speaker B is thinking about adopting a kitten from a friend.\n2. Speaker A prefers cockatoos over kittens as pets, reacting to Speaker B's girlfriend having a noisy cockatoo.",
+    "utter_id": "e34-s5-t1",
+    "current_dialogue": "Speaker A: Have you decided to get one of my friend's kittens?",
+    "memory_text": "1. Speaker A enjoys gardening and reading, while Speaker B enjoys visiting the zoo. Speaker B's girlfriend loves pandas and penguins at the zoo and they visit every few weeks. Speaker B's girlfriend has a noisy cockatoo and Speaker B is thinking about adopting a kitten from a friend.\n2. Speaker A prefers cockatoos over kittens as pets, reacting to Speaker B's girlfriend having a noisy cockatoo.",
+    "speaker": "Speaker B",
+    "raw_prediction": "I'm still considering it, but I think my girlfriend might prefer another pet.",
+    "prediction": "OUTPUT:\n\nBrief explanation: The MEMORY contains information that Speaker B is thinking about adopting a kitten from a friend, which is directly relevant to the question Speaker A is asking about adopting a kitten. This background information can assist the language model in generating a coherent and contextually appropriate response to Speaker A's inquiry.\nJudgement: \"Yes\""
+}

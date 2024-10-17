@@ -1,0 +1,13 @@
+{
+    "win_count": 18,
+    "loss_count": 29,
+    "tie_count": 9,
+    "na_count": 3,
+    "total_count": 59,
+    "win_ratio_with_na": 0.3050847457627119,
+    "loss_ratio_with_na": 0.4915254237288136,
+    "tie_ratio_with_na": 0.15254237288135594,
+    "win_ratio_without_na": 0.32142857142857145,
+    "loss_ratio_without_na": 0.5178571428571429,
+    "tie_ratio_without_na": 0.16071428571428573
+}

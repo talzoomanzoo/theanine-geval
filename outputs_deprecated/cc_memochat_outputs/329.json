@@ -1,0 +1,10 @@
+{
+    "id": 329,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Unknown, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nHey neighbor, how's it going?\nNot bad, thanks. How about you?\n\n[MEMORY]\nRelated Evidences: ``` \n\n``` Recent Dialogs: \nNeighbors A: Hey neighbor, how's it going? ###Neighbors B: Not bad, thanks. How about you? ### \n\n``` Neighbors B Input:\nRecent Dialogs: Neighbors A: Hey neighbor, how's it going? ###Neighbors B: Not bad, thanks. How about you? ### \n\n``` Neighbors B Input:",
+    "utter_id": "e27-s5-t2",
+    "current_dialogue": "Hey neighbor, how's it going?\nNot bad, thanks. How about you?",
+    "memory_text": "Related Evidences: ``` \n\n``` Recent Dialogs: \nNeighbors A: Hey neighbor, how's it going? ###Neighbors B: Not bad, thanks. How about you? ### \n\n``` Neighbors B Input:\nRecent Dialogs: Neighbors A: Hey neighbor, how's it going? ###Neighbors B: Not bad, thanks. How about you? ### \n\n``` Neighbors B Input:",
+    "speaker": "Unknown",
+    "raw_prediction": "Hey, I'm doing well, thank you for asking. Is there anything new happening in the neighborhood that we should know about?",
+    "prediction": "Brief explanation: The dialogue context is a simple greeting exchange between neighbors and does not require past information to generate an appropriate response. It is a straightforward interaction where the usual next step is for Neighbors A to answer Neighbors B's question.\nJudgement: \"N/A\""
+}

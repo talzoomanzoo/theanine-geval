@@ -1,0 +1,10 @@
+{
+    "id": 66,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Speaker B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: What instrument do you play? \n\n[MEMORY]\nSpeaker A is skilled in writing and is part of a band where they play the drums and write music, with 4 members including the singer who is their best friend. This band tours different countries for their music, having visited Italy, Uzbekistan, and smaller countries in Central and South America.",
+    "utter_id": "e6-s5-t1",
+    "current_dialogue": "Speaker A: What instrument do you play? ",
+    "memory_text": "Speaker A is skilled in writing and is part of a band where they play the drums and write music, with 4 members including the singer who is their best friend. This band tours different countries for their music, having visited Italy, Uzbekistan, and smaller countries in Central and South America.",
+    "speaker": "Speaker B",
+    "raw_prediction": "I play the guitar. How about you, what instrument do you play in the band?",
+    "prediction": "Brief explanation: The information in the MEMORY is helpful in formulating an appropriate response to Speaker A's question about which instrument Speaker B plays.\nJudgement: Yes"
+}

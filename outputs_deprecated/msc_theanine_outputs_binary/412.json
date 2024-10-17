@@ -1,0 +1,10 @@
+{
+    "id": 412,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Speaker B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker A: So I decided against Marmalade for the kitten's name. We're going with Pumpkin!\n\nMEMORY:\nSpeaker A recently got a Subaru and has a cat named Ginger, considering naming a new kitten Marmalade. Speaker A enjoys taking their kitten on trips. Speaker A usually leaves their cats with a friend while traveling.\nSpeaker B went on a trip to San Diego with kids, struggled with parking for the Subaru. Speaker B is not a cat person but ends up taking care of stray cats brought home by kids.",
+    "utter_id": "e38-s5-t1",
+    "current_dialogue": "Speaker A: So I decided against Marmalade for the kitten's name. We're going with Pumpkin!",
+    "memory_text": "Speaker A recently got a Subaru and has a cat named Ginger, considering naming a new kitten Marmalade. Speaker A enjoys taking their kitten on trips. Speaker A usually leaves their cats with a friend while traveling.\nSpeaker B went on a trip to San Diego with kids, struggled with parking for the Subaru. Speaker B is not a cat person but ends up taking care of stray cats brought home by kids.",
+    "speaker": "Speaker B",
+    "raw_prediction": "Pumpkin is a cute name! How is the new kitten adjusting to its new home?",
+    "prediction": "OUTPUT:\n\nBrief explanation: The MEMORY contains information that Speaker A was considering naming their new kitten Marmalade, which is directly relevant to the DIALOGUE CONTEXT where Speaker A mentions the decision against that name. This past consideration helps provide context for their new decision to name the kitten Pumpkin.\n\nJudgement: \"Yes\""
+}

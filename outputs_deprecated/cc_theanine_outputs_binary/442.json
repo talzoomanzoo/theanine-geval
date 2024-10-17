@@ -1,0 +1,10 @@
+{
+    "id": 442,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Neighbors B, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nNeighbors A: It's great to have friends who can help each other out, isn't it?\n\nMEMORY:\nNeighbors A thanked Neighbors B for the suggestion of the necklace and stumbled upon Neighbors B's shop. Neighbors B offered to help Neighbors A with the apology process. Neighbors A has a picture of the dress on their phone and will show it to Neighbors B.",
+    "utter_id": "e37-s5-t1",
+    "current_dialogue": "Neighbors A: It's great to have friends who can help each other out, isn't it?",
+    "memory_text": "Neighbors A thanked Neighbors B for the suggestion of the necklace and stumbled upon Neighbors B's shop. Neighbors B offered to help Neighbors A with the apology process. Neighbors A has a picture of the dress on their phone and will show it to Neighbors B.",
+    "speaker": "Neighbors B",
+    "raw_prediction": "Absolutely, I'm glad we can support each other. Let me see the picture of the dress you're thinking of wearing for the apology dinner.",
+    "prediction": "OUTPUT:\n\nBrief explanation: The MEMORY contains information that Neighbors B has previously assisted Neighbors A, suggesting a willingness to help and engage in supportive interactions. This past behavior aligns with the current context of valuing friends who help, providing continuity in their supportive relationship.\nJudgement: \"Yes\""
+}

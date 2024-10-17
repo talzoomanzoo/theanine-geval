@@ -1,0 +1,10 @@
+{
+    "id": 296,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Parent, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nSpeaker B: Oh that sounds fun! What is it about?\n\nMEMORY:\n1. Speaker A and their brother enjoy going to a Brazilian steakhouse for dinner.\n2. Speaker A's brother enjoys Brazilian food, specifically steak.\n3. Speaker A enjoys salsa dancing and is planning to go out dancing.\n4. Speaker A is planning to take their clients salsa dancing for fun.\n5. Speaker B works as a bartender and enjoys meeting different people.\n6. Speaker B's family enjoys dancing on the boat at night under the stars.",
+    "utter_id": "e27-s5-t2",
+    "current_dialogue": "Speaker B: Oh that sounds fun! What is it about?",
+    "memory_text": "1. Speaker A and their brother enjoy going to a Brazilian steakhouse for dinner.\n2. Speaker A's brother enjoys Brazilian food, specifically steak.\n3. Speaker A enjoys salsa dancing and is planning to go out dancing.\n4. Speaker A is planning to take their clients salsa dancing for fun.\n5. Speaker B works as a bartender and enjoys meeting different people.\n6. Speaker B's family enjoys dancing on the boat at night under the stars.",
+    "speaker": "Parent",
+    "raw_prediction": "It's an action-packed movie about the Marvel character Black Widow. We loved the mix of adrenaline and great storytelling.",
+    "prediction": "OUTPUT\nBrief explanation: The MEMORY contains information related to salsa dancing, which may be relevant to Speaker B's question about what an activity is about. If the context of the conversation is about Speaker A's plans, it could be helpful to mention their interest in salsa dancing.\nJudgement: \"Yes\""
+}

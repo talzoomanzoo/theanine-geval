@@ -1,0 +1,13 @@
+{
+    "win_count": 7,
+    "loss_count": 50,
+    "tie_count": 0,
+    "na_count": 2,
+    "total_count": 59,
+    "win_ratio_with_na": 0.11864406779661017,
+    "loss_ratio_with_na": 0.847457627118644,
+    "tie_ratio_with_na": 0.0,
+    "Theanine wins": 0.12280701754385964,
+    "tie": 0.0,
+    "Baseline wins": 0.8771929824561403
+}

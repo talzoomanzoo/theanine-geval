@@ -1,0 +1,27 @@
+[Task Description]
+You will be given DIALOGUE CONTEXT and MEMORY.
+You task is to evaluate MEMORY based on the criterion.
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+[Criterion]
+Helpfulness (1-5): How much the MEMORY provides helpful information for a language model, representing {speaker}, to generate a proper next response based on DIALOGUE CONTEXT. An helpful memory should contain sentences that are naturally connected, representing the development (e.g., causality) of two speakers' past interactions.
+
+For your information:
+A score of 1 means that most sentences in MEMORY do not benefit generating a next response or are structured in an unnatural way that does not tell us the connection, relevancy, or causality of events.
+A score of 5 means that MEMORY contains some sentences providing information relevant to DIALOGUE CONTEXT. And, sentences in it should be naturally connected so the causality/relevancy is clearly demonstrated.
+
+[Evaluation Steps]
+1. Read DIALOGUE CONTEXT and MEMORY carefully. 
+2. Rate MEMORY on a scale of 1-5 according to the criterion above. 
+3. Provide a brief explanation for your rating.
+4. Always generate your helpfulness score after the phrase `Helpfulness Score:`
+
+[Your Task]
+DIALOGUE CONTEXT:
+{current_dialogue}
+
+MEMORY:
+{memory}
+
+[OUTPUT]
+Helpfulness Score:

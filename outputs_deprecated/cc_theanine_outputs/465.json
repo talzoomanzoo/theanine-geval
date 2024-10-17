@@ -1,0 +1,10 @@
+{
+    "id": 465,
+    "model_input": "\n[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYour job is to judge if MEMORY contains helpful past information for a language model, representing Neighbors A, to generate a proper next response based on DIALOGUE CONTEXT.\n\nIf the DIALOUGE CONTEXT does not require the model to utilize past information for response generation, say \"N/A\".\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\", \"No\", or \"N/A\"\n\n[Task]\nDIALOGUE CONTEXT:\nNeighbors A: I just got back from my trip to South America. It was amazing!\n\n[MEMORY]\nNeighbors B recalls a cooking class they took with Neighbors A last year. They also remember Neighbors A teaching a kid a special move, followed by mentioning their struggle with keeping their room tidy and wasting time looking for things. Additionally, Neighbors B expresses concern about the safety of hooking up with strangers and advises caution.",
+    "utter_id": "e39-s5-t1",
+    "current_dialogue": "Neighbors A: I just got back from my trip to South America. It was amazing!",
+    "memory_text": "Neighbors B recalls a cooking class they took with Neighbors A last year. They also remember Neighbors A teaching a kid a special move, followed by mentioning their struggle with keeping their room tidy and wasting time looking for things. Additionally, Neighbors B expresses concern about the safety of hooking up with strangers and advises caution.",
+    "speaker": "Neighbors A",
+    "raw_prediction": "I bet you had some incredible experiences there!",
+    "prediction": "Brief explanation: The dialogue context involves Neighbor A talking about their recent trip to South America. The memory does not provide any direct or indirect input that could be helpful for the model to generate the next dialogue based on the given context.\nJudgement: No"
+}

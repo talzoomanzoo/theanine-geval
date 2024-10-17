@@ -1,0 +1,10 @@
+{
+    "id": 20,
+    "model_input": "[Task Description]\nYou will be given DIALOGUE CONTEXT and MEMORY.\nYou job is to judge if MEMORY contains helpful past information for a language model, representing Neighbors A, to generate a proper next response based on DIALOGUE CONTEXT.\n\nSay \"Yes\" if MEMORY contains such helpful information and say \"No\" if it dose not.\nProvide a brief explanation for your judgement.\n\n[Format Regulation]\nGenerate your output below OUTPUT using the following format:\nBrief explanation: your explanation\nJudgement: \"Yes\" or \"No\"\n\n[Task]\nDIALOGUE CONTEXT:\nNeighbors A: Haha, that was a good one! Aren't you glad I pushed you into the cold water?\n\nMEMORY:\nNeighbor A and Neighbor B have known each other for years, becoming good friends. They both agree to start this weekend and are looking forward to it. Neighbor B enjoys cooking and suggests making something together. Neighbor B suggests having extra water on hand for the next time Neighbor A mows the lawn, showing consideration for each other.",
+    "utter_id": "e2-s5-t1",
+    "current_dialogue": "Neighbors A: Haha, that was a good one! Aren't you glad I pushed you into the cold water?",
+    "memory_text": "Neighbor A and Neighbor B have known each other for years, becoming good friends. They both agree to start this weekend and are looking forward to it. Neighbor B enjoys cooking and suggests making something together. Neighbor B suggests having extra water on hand for the next time Neighbor A mows the lawn, showing consideration for each other.",
+    "speaker": "Neighbors A",
+    "raw_prediction": "I'm definitely feeling refreshed now! Thanks for the spontaneous dip!",
+    "prediction": "OUTPUT\nBrief explanation: The MEMORY indicates that Neighbor A and B are good friends who care for each other, which suggests a playful dynamic is normal in their interactions. This background supports Neighbor A's playful comment about pushing Neighbor B into cold water.\nJudgement: \"Yes\""
+}

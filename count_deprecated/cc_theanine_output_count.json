@@ -1,0 +1,9 @@
+{
+    "yes_count": 230,
+    "no_count": 343,
+    "na_count": 21,
+    "yes_ratio_with_na": 0.3872053872053872,
+    "no_ratio_with_na": 0.5774410774410774,
+    "yes_ratio_without_na": 0.4013961605584642,
+    "no_ratio_without_na": 0.5986038394415357
+}
